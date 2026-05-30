@@ -1,14 +1,31 @@
+# ── FFX Tracker specific ──────────────────────────────────────────────────────
+
 # Compiled executable (distribute via GitHub Releases instead)
 *.exe
 
-# Personal save data (unique to each user)
+# Personal save data (unique to each user, not for version control)
 ffx_save.json
 
-# PyInstaller build artifacts
+# ── Python ────────────────────────────────────────────────────────────────────
+
+__pycache__/
+*.py[cod]
+*.pyo
+
+# ── PyInstaller ───────────────────────────────────────────────────────────────
+
 build/
 dist/
 *.spec
 
-# Python cache
-__pycache__/
-*.pyc
+# ── Environments ──────────────────────────────────────────────────────────────
+
+.env
+.venv
+venv/
+ENV/
+
+# ── VS Code ───────────────────────────────────────────────────────────────────
+
+.vscode/
+tempCodeRunnerFile.py
