@@ -1,0 +1,2943 @@
+[
+  {
+    "name": "Dingo",
+    "area": "Besaid",
+    "category": "Area Fiend",
+    "hp": "125",
+    "steal": [
+      "Potion (common)",
+      "Sleeping Powder (rare)"
+    ],
+    "drops": [
+      "Power Sphere"
+    ],
+    "sensor_text": "\"Very nimble. Resistant to magic.\"",
+    "scan_text": "\"Very nimble and hard to hit. Magic defense is also high. Try to defeat it quickly to avoid damage. Attack swiftly with Tidus.\"",
+    "location_notes": "You can find them along any of the pathways on Besaid Island.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Dingo-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Besaid/Dingo.html",
+    "image_local_path": "images/screenshots/dingo.webp",
+    "thumbnail_local_path": "images/thumbnails/dingo.webp"
+  },
+  {
+    "name": "Condor",
+    "area": "Besaid",
+    "category": "Area Fiend",
+    "hp": "95",
+    "steal": [
+      "Phoenix Down (common)",
+      "Smoke Bomb (rare)"
+    ],
+    "drops": [
+      "Speed Sphere"
+    ],
+    "sensor_text": "\"Aerial. Magic attacks are the way to go.\"",
+    "scan_text": "\"Aerial and hard to hit. Use Wakka's attack to knock it down. It's vulnerable to fire, so you can also use Lulu's Fire spell.\"",
+    "location_notes": "You can find them along any of the pathways on Besaid Island.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Condor-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Besaid/Condor.html",
+    "image_local_path": "images/screenshots/condor.webp",
+    "thumbnail_local_path": "images/thumbnails/condor.webp"
+  },
+  {
+    "name": "Water Flan",
+    "area": "Besaid",
+    "category": "Area Fiend",
+    "hp": "315",
+    "steal": [
+      "Fish Scale (common)",
+      "Dragon Scale (rare)"
+    ],
+    "drops": [
+      "Mana Sphere"
+    ],
+    "sensor_text": "\"Water elemental. Vulnerable to opposing element. Resistant to physical attacks.\"",
+    "scan_text": "\"Water-based. So soft, it's hard to damage physically. Weak against lightning, so blast it with Lulu's Thunder spell. Don't use Water or it will recover HP.\"",
+    "location_notes": "You can find them along any of the pathways on Besaid Island.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Water-Flan-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Besaid/Water-Flan.html",
+    "image_local_path": "images/screenshots/water-flan.webp",
+    "thumbnail_local_path": "images/thumbnails/water-flan.webp"
+  },
+  {
+    "name": "Dinonix",
+    "area": "Kilika",
+    "category": "Area Fiend",
+    "hp": "140",
+    "steal": [
+      "Soft (common)",
+      "Petrify Grenade (rare)"
+    ],
+    "drops": [
+      "Speed Sphere (common)",
+      "Power Sphere (rare)"
+    ],
+    "sensor_text": "\"Very nimble. Resistant to magic.\"",
+    "scan_text": "\"Very nimble and hard to hit. Magic defense is also high. Defeat it quickly to avoid damage. Vulnerable to ice.\"",
+    "location_notes": "You can find them anywhere in the Kilika Woods.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Dinonix-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Kilika/Dinonix.html",
+    "image_local_path": "images/screenshots/dinonix.webp",
+    "thumbnail_local_path": "images/thumbnails/dinonix.webp"
+  },
+  {
+    "name": "Killer Bee",
+    "area": "Kilika",
+    "category": "Area Fiend",
+    "hp": "110",
+    "steal": [
+      "Antidote (common)",
+      "Poison Fang (rare)"
+    ],
+    "drops": [
+      "Speed Sphere"
+    ],
+    "sensor_text": "\"Aerial. Vulnerable to ice. Watch out for poison.\"",
+    "scan_text": "\"Aerial and hard to hit. Use Wakka's attack to knock it down. It's vulnerable to ice, so Blizzard is also effective. Attacks may inflict poison.\"",
+    "location_notes": "You can find them anywhere in the Kilika Woods.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Killer-Bee-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Kilika/Killer-Bee.html",
+    "image_local_path": "images/screenshots/killer-bee.webp",
+    "thumbnail_local_path": "images/thumbnails/killer-bee.webp"
+  },
+  {
+    "name": "Yellow Element",
+    "area": "Kilika",
+    "category": "Area Fiend",
+    "hp": "300",
+    "steal": [
+      "Electro Marble (common)",
+      "Lightning Marble (rare)"
+    ],
+    "drops": [
+      "Mana Sphere"
+    ],
+    "sensor_text": "\"Lightning elemental. Vulnerable to opposing element.\"",
+    "scan_text": "\"Casts Thunder. Physical attacks hardly hurt it. Absorbs lightning, so Water is the way to go.\"",
+    "location_notes": "You can find them anywhere in the Kilika Woods.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Yellow-Element-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Kilika/Yellow-Element.html",
+    "image_local_path": "images/screenshots/yellow-element.webp",
+    "thumbnail_local_path": "images/thumbnails/yellow-element.webp"
+  },
+  {
+    "name": "Ragora",
+    "area": "Kilika",
+    "category": "Area Fiend",
+    "hp": "780",
+    "steal": [
+      "Antidote (common)",
+      "Remedy (rare)"
+    ],
+    "drops": [
+      "Mana Sphere"
+    ],
+    "sensor_text": "\"Vulnerable to Fire.\"",
+    "scan_text": "\"Watch out for its powerful Seed Cannon. One bad hit will knock characters out. Plants tend to be weak against fire, so have Lulu cast Fira.\"",
+    "location_notes": "You can find them anywhere in the Kilika Woods.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Ragora-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Kilika/Ragora.html",
+    "image_local_path": "images/screenshots/ragora.webp",
+    "thumbnail_local_path": "images/thumbnails/ragora.webp"
+  },
+  {
+    "name": "Raptor",
+    "area": "Mushroom Rock Road",
+    "category": "Area Fiend",
+    "hp": "200",
+    "steal": [
+      "Soft (common)",
+      "Petrify Grenade (rare)"
+    ],
+    "drops": [
+      "Speed Sphere (common)",
+      "Power Sphere (rare)"
+    ],
+    "sensor_text": "\"Very nimble. Resistant to magic.\"",
+    "scan_text": "\"Very nimble and hard to hit. Magic defense is also high. Defeat it quickly to avoid damage. Takes only half damage from fire and lightning, but vulnerable to ice.\"",
+    "location_notes": "You can find them anywhere along the Mushroom Rock Road or the Djose Highroad.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Raptor-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Mushroom-Rock-Road/Raptor.html",
+    "image_local_path": "images/screenshots/raptor.webp",
+    "thumbnail_local_path": "images/thumbnails/raptor.webp"
+  },
+  {
+    "name": "Gandarewa",
+    "area": "Mushroom Rock Road",
+    "category": "Area Fiend",
+    "hp": "148",
+    "steal": [
+      "Electro Marble (common)",
+      "Electro Marble(x2) (rare)"
+    ],
+    "drops": [
+      "Mana Sphere"
+    ],
+    "sensor_text": "\"Aerial. Resistant to magic.\"",
+    "scan_text": "\"Aerial and hard to hit. Casts Thunder. It's vulnerable to water, but has high magic defense. Use Wakka to knock it out of the sky.\"",
+    "location_notes": "You can find them anywhere along the Mushroom Rock Road, the Djose Highroad, or the road to the Moonflow.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Gandarewa-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Mushroom-Rock-Road/Gandarewa.html",
+    "image_local_path": "images/screenshots/gandarewa.webp",
+    "thumbnail_local_path": "images/thumbnails/gandarewa.webp"
+  },
+  {
+    "name": "Thunder Flan",
+    "area": "Mushroom Rock Road",
+    "category": "Area Fiend",
+    "hp": "450",
+    "steal": [
+      "Electro Marble (common)",
+      "Electro Marble(x2) (rare)"
+    ],
+    "drops": [
+      "Mana Sphere"
+    ],
+    "sensor_text": "\"Lightning elemental. Vulnerable to opposing element. Resistant to physical attacks.\"",
+    "scan_text": "\"Lightning-based. So soft, it's hard to damage physically. Weak against water, so blast it with Water. Don't use lightning, or it will recover HP.\"",
+    "location_notes": "You can find them along the Mushroom Rock Road or in the latter portions of the Mi'ihen Highroad.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Thunder-Flan-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Mushroom-Rock-Road/Thunder-Flan.html",
+    "image_local_path": "images/screenshots/thunder-flan.webp",
+    "thumbnail_local_path": "images/thumbnails/thunder-flan.webp"
+  },
+  {
+    "name": "Red Element",
+    "area": "Mushroom Rock Road",
+    "category": "Area Fiend",
+    "hp": "450",
+    "steal": [
+      "Bomb Fragment (common)",
+      "Bomb Fragment(x2) (rare)"
+    ],
+    "drops": [
+      "Mana Sphere"
+    ],
+    "sensor_text": "\"Fire elemental. Vulnerable to opposing element.\"",
+    "scan_text": "\"Casts Fire. Physical attacks hardly hurt it. Absorbs fire, so Blizzard is the way to go.\"",
+    "location_notes": "You can find them anywhere along the Mushroom Rock Road.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Red-Element-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Mushroom-Rock-Road/Red-Element.html",
+    "image_local_path": "images/screenshots/red-element.webp",
+    "thumbnail_local_path": "images/thumbnails/red-element.webp"
+  },
+  {
+    "name": "Lamashtu",
+    "area": "Mushroom Rock Road",
+    "category": "Area Fiend",
+    "hp": "275",
+    "steal": [
+      "Potion (common)",
+      "Silver Hourglass (rare)"
+    ],
+    "drops": [
+      "Power Sphere"
+    ],
+    "sensor_text": "\"Covered in hard scales. Piercing weapons are the way to go. Watch out for Slow.\"",
+    "scan_text": "\"Covered with hard scales. Physical and magic defense are high, but it's weak against fire. Its attack may cause slow. Watch out for its ice-based Breath, which hits all.\"",
+    "location_notes": "You can find them anywhere along the Mushroom Rock Road or the Djose Highroad.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Lamashtu-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Mushroom-Rock-Road/Lamashtu.html",
+    "image_local_path": "images/screenshots/lamashtu.webp",
+    "thumbnail_local_path": "images/thumbnails/lamashtu.webp"
+  },
+  {
+    "name": "Funguar",
+    "area": "Mushroom Rock Road",
+    "category": "Area Fiend",
+    "hp": "540",
+    "steal": [
+      "Silence Grenade (common)",
+      "Ether (rare)"
+    ],
+    "drops": [
+      "Mana Sphere"
+    ],
+    "sensor_text": "\"Occasionally counters with Pollen, which induces sleep.\"",
+    "scan_text": "\"Casts Fire, so it's best to silence it. Occasionally retaliates with sleep-inducing Pollen. Putting it to sleep is effective. Vulnerable to fire.\"",
+    "location_notes": "You can find them anywhere along the Mushroom Rock Road.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Funguar-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Mushroom-Rock-Road/Funguar.html",
+    "image_local_path": "images/screenshots/funguar.webp",
+    "thumbnail_local_path": "images/thumbnails/funguar.webp"
+  },
+  {
+    "name": "Garuda",
+    "area": "Mushroom Rock Road",
+    "category": "Area Fiend",
+    "hp": "4,000",
+    "steal": [
+      "Smoke Bomb (common)",
+      "Smoke Bomb(x2) (rare)"
+    ],
+    "drops": [
+      "Power Sphere"
+    ],
+    "sensor_text": "\"Dodging its attacks is easier after inflicting darkness.\"",
+    "scan_text": "\"It has high strength and tons of HP. Beware of Sonic Boom, which hits all characters. Dodge its attacks more easily by inflicting darkness.\"",
+    "location_notes": "You can find them anywhere along the Mushroom Rock Road. They are easier to find along the latter sections of the pathway, especially on the elevated portions of the road near the elevators. Many players report success hunting for them in the area where Luzzu and Gatta were standing.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Garuda-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Mushroom-Rock-Road/Garuda.html",
+    "image_local_path": "images/screenshots/garuda.webp",
+    "thumbnail_local_path": "images/thumbnails/garuda.webp"
+  },
+  {
+    "name": "Garm",
+    "area": "Djose Road",
+    "category": "Area Fiend",
+    "hp": "240",
+    "steal": [
+      "Hi-Potion (common)",
+      "Sleeping Powder (rare)"
+    ],
+    "drops": [
+      "Power Sphere"
+    ],
+    "sensor_text": "\"Very nimble. Resistant to magic.\"",
+    "scan_text": "\"Very nimble and hard to hit. Magic defense is also high. Defeat it quickly to avoid damage. It's vulnerable to lightning and fire.\"",
+    "location_notes": "You can find them all along the Djose Highroad.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Garm-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Djose-Road/Garm.html",
+    "image_local_path": "images/screenshots/garm.webp",
+    "thumbnail_local_path": "images/thumbnails/garm.webp"
+  },
+  {
+    "name": "Simurgh",
+    "area": "Djose Road",
+    "category": "Area Fiend",
+    "hp": "200",
+    "steal": [
+      "Smoke Bomb (common)",
+      "Smoke Bomb(x2) (rare)"
+    ],
+    "drops": [],
+    "sensor_text": "Darkness",
+    "scan_text": "\"Aerial. Magic attacks are the way to go. Watch out for darkness.\"",
+    "location_notes": "You can find them all along the Djose Highroad.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Simurgh-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Djose-Road/Simurgh.html",
+    "image_local_path": "images/screenshots/simurgh.webp",
+    "thumbnail_local_path": "images/thumbnails/simurgh.webp"
+  },
+  {
+    "name": "Bite Bug",
+    "area": "Djose Road",
+    "category": "Area Fiend",
+    "hp": "200",
+    "steal": [
+      "Antidote (common)",
+      "Poison Fang (rare)"
+    ],
+    "drops": [
+      "Speed Sphere"
+    ],
+    "sensor_text": "Poison",
+    "scan_text": "\"Aerial. Vulnerable to ice. Watch out for poison.\"",
+    "location_notes": "You can find them all along the Djose Highroad.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Bite-Bug-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Djose-Road/Bite-Bug.html",
+    "image_local_path": "images/screenshots/bite-bug.webp",
+    "thumbnail_local_path": "images/thumbnails/bite-bug.webp"
+  },
+  {
+    "name": "Snow Flan",
+    "area": "Djose Road",
+    "category": "Area Fiend",
+    "hp": "600",
+    "steal": [
+      "Antarctic Wind (common)",
+      "Antarctic Wind(x2) (rare)"
+    ],
+    "drops": [
+      "Mana Sphere (common)",
+      "Mana Sphere(x2) (rare)"
+    ],
+    "sensor_text": "\"Ice elemental. Vulnerable to opposing element. Resistant to physical attacks.\"",
+    "scan_text": "\"Ice-based. So soft, it's hard to damage physically. Weak against fire, but will absorb HP from ice. Casts Blizzard.\"",
+    "location_notes": "You can find them all along the Djose Highroad and near Lake Macalania as well.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Snow-Flan-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Djose-Road/Snow-Flan.html",
+    "image_local_path": "images/screenshots/snow-flan.webp",
+    "thumbnail_local_path": "images/thumbnails/snow-flan.webp"
+  },
+  {
+    "name": "Bunyip",
+    "area": "Djose Road",
+    "category": "Area Fiend",
+    "hp": "400",
+    "steal": [
+      "Hi-Potion (common)",
+      "Hypello Potion (rare)"
+    ],
+    "drops": [
+      "Power Sphere"
+    ],
+    "sensor_text": "\"Covered by a hard shell. Piercing weapons are the way to go.\"",
+    "scan_text": "\"Covered by a hard shell. Slow-moving, but has high physical and magic defense. Vulnerable to ice and water. Falls easily to piercing weapons.\"",
+    "location_notes": "You can find them all along the Djose Highroad.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Bunyip-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Djose-Road/Bunyip.html",
+    "image_local_path": "images/screenshots/bunyip.webp",
+    "thumbnail_local_path": "images/thumbnails/bunyip.webp"
+  },
+  {
+    "name": "Basilisk",
+    "area": "Djose Road",
+    "category": "Area Fiend",
+    "hp": "2,025",
+    "steal": [
+      "Petrify Grenade (common)",
+      "Petrify Grenade (rare)"
+    ],
+    "drops": [
+      "Ability Sphere (common)",
+      "Ability Sphere(x2) (rare)"
+    ],
+    "sensor_text": "\"Beware the third eye, its Stone Gaze may cause petrification. If petrified, restore with Esuna or Soft.\"",
+    "scan_text": "\"Beware the third eye. Its Stone Gaze may cause petrification. If petrified, restore with Esuna or Soft. Kimahri can learn Stone Breath.\"",
+    "location_notes": "You can find them all along the Djose Highroad.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Basilisk-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Djose-Road/Basilisk.html",
+    "image_local_path": "images/screenshots/basilisk.webp",
+    "thumbnail_local_path": "images/thumbnails/basilisk.webp"
+  },
+  {
+    "name": "Ochu",
+    "area": "Djose Road",
+    "category": "Area Fiend",
+    "hp": "7,200",
+    "steal": [
+      "Remedy (common)",
+      "Remedy(x2) (rare)"
+    ],
+    "drops": [
+      "Power Sphere (common)",
+      "Mana Sphere(x2) (rare)"
+    ],
+    "sensor_text": "Darkness",
+    "scan_text": "Silence",
+    "location_notes": "You can find them all along the Djose Highroad, but you can also find them along the Moonflow. In fact, they are much easier to find along the Moonflow, so head to that pathway if you need to capture them.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Ochu-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Djose-Road/Ochu.html",
+    "image_local_path": "images/screenshots/ochu.webp",
+    "thumbnail_local_path": "images/thumbnails/ochu.webp"
+  },
+  {
+    "name": "Melusine",
+    "area": "Thunder Plains",
+    "category": "Area Fiend",
+    "hp": "265",
+    "steal": [
+      "Soft (common)",
+      "Petrify Grenade (rare)"
+    ],
+    "drops": [
+      "Speed Sphere (common)",
+      "Power Sphere (rare)"
+    ],
+    "sensor_text": "Petrification",
+    "scan_text": "Silence",
+    "location_notes": "You can find them anywhere in the Thunder Plains. They tend to be more abundant in the first section of the Thunder Plains.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Melusine-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Thunder-Plains/Melusine.html",
+    "image_local_path": "images/screenshots/melusine.webp",
+    "thumbnail_local_path": "images/thumbnails/melusine.webp"
+  },
+  {
+    "name": "Aerouge",
+    "area": "Thunder Plains",
+    "category": "Area Fiend",
+    "hp": "200",
+    "steal": [
+      "Electro Marble (common)",
+      "Lightning Marble (rare)"
+    ],
+    "drops": [
+      "Mana Sphere"
+    ],
+    "sensor_text": "\"Aerial. Resistant to magic.\"",
+    "scan_text": "\"Aerial and hard to hit. It's weak against water, but has high magic defense. The only attack it has is Thundara, so inflict silence to leave it powerless.\"",
+    "location_notes": "You can find them anywhere in the Thunder Plains.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Aerouge-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Thunder-Plains/Aerouge.html",
+    "image_local_path": "images/screenshots/aerouge.webp",
+    "thumbnail_local_path": "images/thumbnails/aerouge.webp"
+  },
+  {
+    "name": "Buer",
+    "area": "Thunder Plains",
+    "category": "Area Fiend",
+    "hp": "230",
+    "steal": [
+      "Hi-Potion (common)",
+      "Musk (rare)"
+    ],
+    "drops": [
+      "Speed Sphere"
+    ],
+    "sensor_text": "Confused",
+    "scan_text": "\"Aerial. Resistant to magic. Watch out for confusion.\"",
+    "location_notes": "You can find them in the Thunder Plains.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Buer-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Thunder-Plains/Buer.html",
+    "image_local_path": "images/screenshots/buer.webp",
+    "thumbnail_local_path": "images/thumbnails/buer.webp"
+  },
+  {
+    "name": "Gold Element",
+    "area": "Thunder Plains",
+    "category": "Area Fiend",
+    "hp": "1,200",
+    "steal": [
+      "Electro Marble (common)",
+      "Electro Marble(x2) (rare)"
+    ],
+    "drops": [
+      "Mana Sphere"
+    ],
+    "sensor_text": "\"Lightning elemental. Vulnerable to opposing element.\"",
+    "scan_text": "\"Casts Thunder. Physical attacks hardly hurt it. Absorbs lightning, so use Watera for an Overkill.\"",
+    "location_notes": "You can find them anywhere in the Thunder Plains, but they are more common in the first portion.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Gold-Element-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Thunder-Plains/Gold-Element.html",
+    "image_local_path": "images/screenshots/gold-element.webp",
+    "thumbnail_local_path": "images/thumbnails/gold-element.webp"
+  },
+  {
+    "name": "Kusariqqu",
+    "area": "Thunder Plains",
+    "category": "Area Fiend",
+    "hp": "445",
+    "steal": [
+      "Hi-Potion (common)",
+      "Silver Hourglass (rare)"
+    ],
+    "drops": [
+      "Power Sphere"
+    ],
+    "sensor_text": "Slow",
+    "scan_text": "\"Covered in hard scales. Piercing weapons are the way to go. Watch out for Slow.\"",
+    "location_notes": "You can find them anywhere in the Thunder Plains.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Kusariqqu-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Thunder-Plains/Kusariqqu.html",
+    "image_local_path": "images/screenshots/kusariqqu.webp",
+    "thumbnail_local_path": "images/thumbnails/kusariqqu.webp"
+  },
+  {
+    "name": "Larva",
+    "area": "Thunder Plains",
+    "category": "Area Fiend",
+    "hp": "1,498",
+    "steal": [
+      "Lunar Curtain (common)",
+      "Lunar Curtain(x2) (rare)"
+    ],
+    "drops": [
+      "Ability Sphere"
+    ],
+    "sensor_text": "\"Casts Thundara on itself to replenish HP and grow even more powerful.\"",
+    "scan_text": "\"When HP is halved, it casts Thundara on itself to recover HP and increase magic power. Silence it with Silence Attack. It's vulnerable to water, so Watera is the way to go.\"",
+    "location_notes": "You can find them anywhere in the Thunder Plains.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Larva-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Thunder-Plains/Larva.html",
+    "image_local_path": "images/screenshots/larva.webp",
+    "thumbnail_local_path": "images/thumbnails/larva.webp"
+  },
+  {
+    "name": "Iron Giant",
+    "area": "Thunder Plains",
+    "category": "Area Fiend",
+    "hp": "3,600",
+    "steal": [
+      "Light Curtain"
+    ],
+    "drops": [
+      "Power Sphere(x2) (common)",
+      "Power Sphere(x3) (rare)"
+    ],
+    "sensor_text": "\"Dark Buster is effective, but beware its Reaper attack.\"",
+    "scan_text": "\"Targets character with lowest HP. Beware its Reaper attack, which hits all characters. No elemental weaknesses. Takes half damage from lightning. Use piercing weapons and Dark Buster.\"",
+    "location_notes": "You can find them in the second half of the Thunder Plains.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Iron-Giant-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Thunder-Plains/Iron-Giant.html",
+    "image_local_path": "images/screenshots/iron-giant.webp",
+    "thumbnail_local_path": "images/thumbnails/iron-giant.webp"
+  },
+  {
+    "name": "Qactuar",
+    "area": "Thunder Plains",
+    "category": "Area Fiend",
+    "hp": "500",
+    "steal": [
+      "Chocobo Feather (common)",
+      "Chocobo Wing (rare)"
+    ],
+    "drops": [
+      "Speed Sphere(x2) (common)",
+      "Speed Sphere(x3) (rare)"
+    ],
+    "sensor_text": "\"You'll get a treat if you can defeat it before it runs away.\"",
+    "scan_text": "\"Its 1000 Needles inflict 1000 points of damage. Resistant to both physical and magical attacks. Runs away when HP is low. Threaten is recommended.\"",
+    "location_notes": "You can find them in the Thunder Plains, but they need to be unlocked. Check out theSpirit Lancepage in the Celestial Weapons section for more details.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Qactuar-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Thunder-Plains/Qactuar.html",
+    "image_local_path": "images/screenshots/qactuar.webp",
+    "thumbnail_local_path": "images/thumbnails/qactuar.webp"
+  },
+  {
+    "name": "Snow Wolf",
+    "area": "Macalania",
+    "category": "Area Fiend",
+    "hp": "400",
+    "steal": [
+      "Sleeping Powder (common)",
+      "Sleeping Powder(x2) (rare)"
+    ],
+    "drops": [
+      "Power Sphere"
+    ],
+    "sensor_text": "\"Very nimble. Resistant to magic.\"",
+    "scan_text": "\"Very nimble and hard to hit. Magic defense is also high. Defeat it quickly to avoid damage. It's vulnerable to fire.\"",
+    "location_notes": "You can find them near Lake Macalania.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Walkthrough/FFX-HD-01774-Monster-Arena-Fiend-Snow-Wolf-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Macalania/Snow-Wolf.html",
+    "image_local_path": "images/screenshots/snow-wolf.webp",
+    "thumbnail_local_path": "images/thumbnails/snow-wolf.webp"
+  },
+  {
+    "name": "Iguion",
+    "area": "Macalania",
+    "category": "Area Fiend",
+    "hp": "370",
+    "steal": [
+      "Soft (common)",
+      "Petrify Grenade (rare)"
+    ],
+    "drops": [
+      "Speed Sphere (common)",
+      "Power Sphere (rare)"
+    ],
+    "sensor_text": "Silence",
+    "scan_text": "Petrify",
+    "location_notes": "You can find them anywhere in Macalania Woods.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Iguion-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Macalania/Iguion.html",
+    "image_local_path": "images/screenshots/iguion.webp",
+    "thumbnail_local_path": "images/thumbnails/iguion.webp"
+  },
+  {
+    "name": "Wasp",
+    "area": "Macalania",
+    "category": "Area Fiend",
+    "hp": "360",
+    "steal": [
+      "Hi-Potion (common)",
+      "Poison Fang (rare)"
+    ],
+    "drops": [
+      "Speed Sphere"
+    ],
+    "sensor_text": "\"Aerial. Vulnerable to ice. Watch out for poison.\"",
+    "scan_text": "\"Aerial and hard to hit. Use Wakka's attack to knock it down. It's vulnerable to ice, so cast Blizzara to achieve Overkill. Attacks may inflict poison.\"",
+    "location_notes": "You can find them anywhere in the Macalania Woods.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Wasp-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Macalania/Wasp.html",
+    "image_local_path": "images/screenshots/wasp.webp",
+    "thumbnail_local_path": "images/thumbnails/wasp.webp"
+  },
+  {
+    "name": "Evil Eye",
+    "area": "Macalania",
+    "category": "Area Fiend",
+    "hp": "310",
+    "steal": [
+      "Hi-Potion (common)",
+      "Musk(x2) (rare)"
+    ],
+    "drops": [
+      "Speed Sphere"
+    ],
+    "sensor_text": "\"Aerial. Resistant to magic. Watch out for confusion.\"",
+    "scan_text": "\"Aerial and hard to hit. Its weakness is fire, but it has high magic defense. Its Gaze may cause confusion.\"",
+    "location_notes": "You can find them anywhere in the Macalania Woods.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Evil-Eye-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Macalania/Evil-Eye.html",
+    "image_local_path": "images/screenshots/evil-eye.webp",
+    "thumbnail_local_path": "images/thumbnails/evil-eye.webp"
+  },
+  {
+    "name": "Ice Flan",
+    "area": "Macalania",
+    "category": "Area Fiend",
+    "hp": "1,350",
+    "steal": [
+      "Arctic Wind (common)",
+      "Arctic Wind(x2) (rare)"
+    ],
+    "drops": [
+      "Mana Sphere"
+    ],
+    "sensor_text": "\"Ice elemental. Vulnerable to opposing element. Resistant to physical attacks.\"",
+    "scan_text": "\"Ice-based. So soft, it's hard to damage physically. Weak against fire, but will absorb HP from ice.\"",
+    "location_notes": "You can find them around Lake Macalania.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Ice-Flan-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Macalania/Ice-Flan.html",
+    "image_local_path": "images/screenshots/ice-flan.webp",
+    "thumbnail_local_path": "images/thumbnails/ice-flan.webp"
+  },
+  {
+    "name": "Blue Element",
+    "area": "Macalania",
+    "category": "Area Fiend",
+    "hp": "1,500",
+    "steal": [
+      "Fish Scale(x2) (common)",
+      "Fish Scale(x3) (rare)"
+    ],
+    "drops": [
+      "Mana Sphere"
+    ],
+    "sensor_text": "\"Water elemental. Vulnerable to opposing element.\"",
+    "scan_text": "\"Casts Watera. Physical attacks hardly hurt it. Absorbs water, so Thundara is the way to go.\"",
+    "location_notes": "You can find them anywhere in the Macalania Woods.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Blue-Element-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Macalania/Blue-Element.html",
+    "image_local_path": "images/screenshots/blue-element.webp",
+    "thumbnail_local_path": "images/thumbnails/blue-element.webp"
+  },
+  {
+    "name": "Murussu",
+    "area": "Macalania",
+    "category": "Area Fiend",
+    "hp": "580",
+    "steal": [
+      "Hi-Potion (common)",
+      "Hypello Potion (rare)"
+    ],
+    "drops": [
+      "Power Sphere"
+    ],
+    "sensor_text": "Slow",
+    "scan_text": "\"Covered by a hard shell. Piercing weapons are the way to go. Watch out for slow.\"",
+    "location_notes": "You can find them anywhere in Macalania Woods.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Murussu-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Macalania/Murussu.html",
+    "image_local_path": "images/screenshots/murussu.webp",
+    "thumbnail_local_path": "images/thumbnails/murussu.webp"
+  },
+  {
+    "name": "Mafdet",
+    "area": "Macalania",
+    "category": "Area Fiend",
+    "hp": "710",
+    "steal": [
+      "Hi-Potion (common)",
+      "Hypello Potion (rare)"
+    ],
+    "drops": [
+      "Power Sphere"
+    ],
+    "sensor_text": "Slow",
+    "scan_text": "\"Covered by a hard shell. Piercing weapons are the way to go. Watch out for slow.\"",
+    "location_notes": "You can find them anywhere near Lake Macalania.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Mafdet-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Macalania/Mafdet.html",
+    "image_local_path": "images/screenshots/mafdet.webp",
+    "thumbnail_local_path": "images/thumbnails/mafdet.webp"
+  },
+  {
+    "name": "Xiphos",
+    "area": "Macalania",
+    "category": "Area Fiend",
+    "hp": "2,700",
+    "steal": [
+      "Hi-Potion (common)",
+      "Mega-Potion (rare)"
+    ],
+    "drops": [
+      "Ability Sphere"
+    ],
+    "sensor_text": "Darkness",
+    "scan_text": "\"Occasionally succumbs to darkness.\"",
+    "location_notes": "You can find them anywhere in the Macalania Woods.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Xiphos-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Macalania/Xiphos.html",
+    "image_local_path": "images/screenshots/xiphos.webp",
+    "thumbnail_local_path": "images/thumbnails/xiphos.webp"
+  },
+  {
+    "name": "Chimera",
+    "area": "Macalania",
+    "category": "Area Fiend",
+    "hp": "5,250",
+    "steal": [
+      "Arctic Wind (common)",
+      "Lightning Marble (rare)"
+    ],
+    "drops": [
+      "Ability Sphere (common)",
+      "Ability Sphere(x2) (rare)"
+    ],
+    "sensor_text": "Darkness",
+    "scan_text": "Silence",
+    "location_notes": "You can find them anywhere in the Macalania Woods.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Chimera-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Macalania/Chimera.html",
+    "image_local_path": "images/screenshots/chimera.webp",
+    "thumbnail_local_path": "images/thumbnails/chimera.webp"
+  },
+  {
+    "name": "Sand Wolf",
+    "area": "Bikanel",
+    "category": "Area Fiend",
+    "hp": "450",
+    "steal": [
+      "Sleeping Powder (common)",
+      "Sleeping Powder(x2) (rare)"
+    ],
+    "drops": [
+      "Power SphereandAl Bhed Potion"
+    ],
+    "sensor_text": "Sleep",
+    "scan_text": "Silence",
+    "location_notes": "You can find them anywhere on Bikanel Island.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Sand-Wolf-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Bikanel/Sand-Wolf.html",
+    "image_local_path": "images/screenshots/sand-wolf.webp",
+    "thumbnail_local_path": "images/thumbnails/sand-wolf.webp"
+  },
+  {
+    "name": "Alcyone",
+    "area": "Bikanel",
+    "category": "Area Fiend",
+    "hp": "430",
+    "steal": [
+      "Smoke Bomb (common)",
+      "Smoke Bomb(x2) (rare)"
+    ],
+    "drops": [
+      "Speed SphereandAl Bhed Potion"
+    ],
+    "sensor_text": "Darkness",
+    "scan_text": "\"Aerial. Magic attacks are the way to go. Watch out for Darkness.\"",
+    "location_notes": "You can find them anywhere on Bikanel Island.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Alcyone-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Bikanel/Alcyone.html",
+    "image_local_path": "images/screenshots/alcyone.webp",
+    "thumbnail_local_path": "images/thumbnails/alcyone.webp"
+  },
+  {
+    "name": "Mushussu",
+    "area": "Bikanel",
+    "category": "Area Fiend",
+    "hp": "680",
+    "steal": [
+      "Hi-Potion (common)",
+      "Silver Hourglass (rare)"
+    ],
+    "drops": [
+      "Power SphereandAl Bhed Potion"
+    ],
+    "sensor_text": "Slow",
+    "scan_text": "\"Covered by a hard shell. Piercing weapons are the way to go. Watch out for Slow.\"",
+    "location_notes": "You can find them anywhere on Bikanel Island. Your best bet is to head further north into the Island, though, to see more of them (towards Home).",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Mushussu-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Bikanel/Mushussu.html",
+    "image_local_path": "images/screenshots/mushussu.webp",
+    "thumbnail_local_path": "images/thumbnails/mushussu.webp"
+  },
+  {
+    "name": "Zu",
+    "area": "Bikanel",
+    "category": "Area Fiend",
+    "hp": "18,000",
+    "steal": [
+      "Smoke Bomb(x3) (common)",
+      "Smoke Bomb(x4) (rare)"
+    ],
+    "drops": [
+      "Power SphereandAl Bhed Potion"
+    ],
+    "sensor_text": "Darkness",
+    "scan_text": "\"Watch out for Sonic Boom when wings glow.\"",
+    "location_notes": "You can find them anywhere on Bikanel Island, but the best place to find them is to head back to the sign that says \"weak enemies to the right, strong enemies to the left\" (in Al Bhed) and head to the left.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Zu-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Bikanel/Zu.html",
+    "image_local_path": "images/screenshots/zu.webp",
+    "thumbnail_local_path": "images/thumbnails/zu.webp"
+  },
+  {
+    "name": "Sand Worm",
+    "area": "Bikanel",
+    "category": "Area Fiend",
+    "hp": "45,000",
+    "steal": [
+      "Shadow Gem(x2) (common)",
+      "Stamina Spring(x2) (rare)"
+    ],
+    "drops": [
+      "Ability Sphere (common)",
+      "Lv. 1 Key Sphere (rare)"
+    ],
+    "sensor_text": "Darkness",
+    "scan_text": "Poison",
+    "location_notes": "You can find them anywhere on Bikanel Island, but the best place to find them is to head back to the sign that says \"weak enemies to the right, strong enemies to the left\" (in Al Bhed) and head to the left.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Sand-Worm-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Bikanel/Sand-Worm.html",
+    "image_local_path": "images/screenshots/sand-worm.webp",
+    "thumbnail_local_path": "images/thumbnails/sand-worm.webp"
+  },
+  {
+    "name": "Cactuar",
+    "area": "Bikanel",
+    "category": "Area Fiend",
+    "hp": "800",
+    "steal": [
+      "Chocobo Feather (common)",
+      "Chocobo Wing (rare)"
+    ],
+    "drops": [
+      "Speed Sphere(x2) (common)",
+      "Speed Sphere(x3) (rare)"
+    ],
+    "sensor_text": "\"You'll get a treat if you can defeat it before it runs away.\"",
+    "scan_text": "\"Its 10000 Needles inflict 10000 points of damage. Resistant to both physical and magical attacks. Runs away when HP is low. Hard to defeat, but worth a lot of AP.\"",
+    "location_notes": "You can find them anywhere on Bikanel Island, but the easiest place to find them is near theVillage of the Cactuars.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Cactuar-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Bikanel/Cactuar.html",
+    "image_local_path": "images/screenshots/cactuar.webp",
+    "thumbnail_local_path": "images/thumbnails/cactuar.webp"
+  },
+  {
+    "name": "Skoll",
+    "area": "Calm Lands",
+    "category": "Area Fiend",
+    "hp": "1,000",
+    "steal": [
+      "Dream Powder (common)",
+      "Dream Powder(x2) (rare)"
+    ],
+    "drops": [
+      "Power Sphere"
+    ],
+    "sensor_text": "Sleep",
+    "scan_text": "Silence",
+    "location_notes": "You can find them all over the Calm Lands. They are one of the easiest fiends to find in this area.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Skoll-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Calm-Lands/Skoll.html",
+    "image_local_path": "images/screenshots/skoll.webp",
+    "thumbnail_local_path": "images/thumbnails/skoll.webp"
+  },
+  {
+    "name": "Nebiros",
+    "area": "Calm Lands",
+    "category": "Area Fiend",
+    "hp": "700",
+    "steal": [
+      "Poison Fang (common)",
+      "Poison Fang(x2) (rare)"
+    ],
+    "drops": [
+      "Mana Sphere"
+    ],
+    "sensor_text": "Poison",
+    "scan_text": "\"Aerial. Vulnerable to Ice. Watch out for Poison.\"",
+    "location_notes": "You can find them all over the Calm Lands. They're probably the easiest fiend to track down in this area.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Nebiros-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Calm-Lands/Nebiros.html",
+    "image_local_path": "images/screenshots/nebiros.webp",
+    "thumbnail_local_path": "images/thumbnails/nebiros.webp"
+  },
+  {
+    "name": "Flame Flan",
+    "area": "Calm Lands",
+    "category": "Area Fiend",
+    "hp": "1,500",
+    "steal": [
+      "Fire Gem (common)",
+      "Fire Gem(x2) (rare)"
+    ],
+    "drops": [
+      "Mana Sphere"
+    ],
+    "sensor_text": "\"Fire elemental. Vulnerable to opposing element. Resistant to physical attacks.\"",
+    "scan_text": "",
+    "location_notes": "You can find them anywhere in the Calm Lands.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Flame-Flan-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Calm-Lands/Flame-Flan.html",
+    "image_local_path": "images/screenshots/flame-flan.webp",
+    "thumbnail_local_path": "images/thumbnails/flame-flan.webp"
+  },
+  {
+    "name": "Shred",
+    "area": "Calm Lands",
+    "category": "Area Fiend",
+    "hp": "1,950",
+    "steal": [
+      "Hypello Potion (common)",
+      "Hypello Potion(x2) (rare)"
+    ],
+    "drops": [
+      "Speed Sphere"
+    ],
+    "sensor_text": "Slow",
+    "scan_text": "\"Covered by a hard shell. Piercing weapons are the way to go. Watch out for Slow.\"",
+    "location_notes": "You can find them over the Calm Lands. They are one of the easiest fiends to track down in this area.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Shred-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Calm-Lands/Shred.html",
+    "image_local_path": "images/screenshots/shred.webp",
+    "thumbnail_local_path": "images/thumbnails/shred.webp"
+  },
+  {
+    "name": "Anacondaur",
+    "area": "Calm Lands",
+    "category": "Area Fiend",
+    "hp": "5,800",
+    "steal": [
+      "Petrify Grenade (common)",
+      "Petrify Grenade(x2) (rare)"
+    ],
+    "drops": [
+      "Power Sphere"
+    ],
+    "sensor_text": "Petrified",
+    "scan_text": "\"Watch out for its Stone Gaze.\"",
+    "location_notes": "You can find them anywhere in the Calm Lands, but they are most abundant in the northwest section.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Anacondaur-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Calm-Lands/Anacondaur.html",
+    "image_local_path": "images/screenshots/anacondaur.webp",
+    "thumbnail_local_path": "images/thumbnails/anacondaur.webp"
+  },
+  {
+    "name": "Ogre",
+    "area": "Calm Lands",
+    "category": "Area Fiend",
+    "hp": "9,400",
+    "steal": [
+      "Stamina Spring (common)",
+      "Stamina Spring(x2) (rare)"
+    ],
+    "drops": [
+      "Power Sphere"
+    ],
+    "sensor_text": "\"Be careful if it puts up its dukes.\"",
+    "scan_text": "\"When it puts up its dukes, it will respond to physical attacks with a mighty counterattack. Fire-based attacks are the way to go.\"",
+    "location_notes": "You can find them in a few areas of the Calm Lands, but they tend to be easiest to track down in the northwestern and northeastern sections of the map.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Ogre-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Calm-Lands/Ogre.html",
+    "image_local_path": "images/screenshots/ogre.webp",
+    "thumbnail_local_path": "images/thumbnails/ogre.webp"
+  },
+  {
+    "name": "Coeurl",
+    "area": "Calm Lands",
+    "category": "Area Fiend",
+    "hp": "6,000",
+    "steal": [
+      "Mana Spring"
+    ],
+    "drops": [
+      "Mana Sphere (common)",
+      "Mana Sphere(x2) (rare)"
+    ],
+    "sensor_text": "\"Casts Drain and Blaster when low on HP.\"",
+    "scan_text": "\"High magic attack and defense. Casts Thundara and Blizzara. Also casts Drain when HP is low. Beware of Blaster, since it's unblockable and causes petrification.\"",
+    "location_notes": "You can find them anywhere in the Calm Lands, but they are most abundant on the western/left side of the map.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Coeurl-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Calm-Lands/Coeurl.html",
+    "image_local_path": "images/screenshots/coeurl.webp",
+    "thumbnail_local_path": "images/thumbnails/coeurl.webp"
+  },
+  {
+    "name": "Chimera Brain",
+    "area": "Calm Lands",
+    "category": "Area Fiend",
+    "hp": "9,800",
+    "steal": [
+      "Ice Gem (common)",
+      "Lightning Gem(x2) (rare)"
+    ],
+    "drops": [
+      "Ability Sphere"
+    ],
+    "sensor_text": "\"Darkness and silence work well. Vulnerable to Threaten.\"",
+    "scan_text": "\"The snake casts Thundara, the bull Assaults, the hawk uses Aqua Breath, and the lion uses Megiddo Flame, in that order. Vulnerable to Threaten, darkness, and silence. Kimahri can learn Aqua Breath.\"",
+    "location_notes": "You can find them anywhere in the Calm Lands.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Chimera-Brain-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Calm-Lands/Chimera-Brain.html",
+    "image_local_path": "images/screenshots/chimera-brain.webp",
+    "thumbnail_local_path": "images/thumbnails/chimera-brain.webp"
+  },
+  {
+    "name": "Malboro",
+    "area": "Calm Lands",
+    "category": "Area Fiend",
+    "hp": "27,000",
+    "steal": [
+      "Remedy"
+    ],
+    "drops": [
+      "Mana Sphere"
+    ],
+    "sensor_text": "Silence",
+    "scan_text": "Darkness",
+    "location_notes": "You can find them in most places around the Calm Lands, but they are most abundant in the northwest portion of the map and the areas near where Belgemine is standing. Malboros have a very low encounter rate, so be patient and keep trying.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Malboro-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Calm-Lands/Malboro.html",
+    "image_local_path": "images/screenshots/malboro.webp",
+    "thumbnail_local_path": "images/thumbnails/malboro.webp"
+  },
+  {
+    "name": "Bandersnatch",
+    "area": "Mt. Gagazet",
+    "category": "Area Fiend",
+    "hp": "1,800",
+    "steal": [
+      "Dream Powder(x2) (common)",
+      "Dream Powder(x3) (rare)"
+    ],
+    "drops": [
+      "Power Sphere"
+    ],
+    "sensor_text": "Sleep",
+    "scan_text": "Silence",
+    "location_notes": "You can find them anywhere along the Mt. Gagazet mountain trail. This trail is the pathway that leads up to the caves you travel along after you meet with the Ronso.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Bandersnatch-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Mt-Gagazet/Bandersnatch.html",
+    "image_local_path": "images/screenshots/bandersnatch.webp",
+    "thumbnail_local_path": "images/thumbnails/bandersnatch.webp"
+  },
+  {
+    "name": "Ahriman",
+    "area": "Mt. Gagazet",
+    "category": "Area Fiend",
+    "hp": "2,800",
+    "steal": [
+      "Musk(x2) (common)",
+      "Musk(x3) (rare)"
+    ],
+    "drops": [
+      "Speed Sphere"
+    ],
+    "sensor_text": "\"Aerial. Resistant to magic. Watch out for confusion.\"",
+    "scan_text": "\"Aerial and hard to hit. It has high magic defense and no elemental weaknesses. Its Gaze may cause confusion. It also has Ultrasonics, which strikes all characters.\"",
+    "location_notes": "You can find them in the Mt. Gagazet caves. You can also find them along the Zanarkand Ruins pathway.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Ahriman-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Mt-Gagazet/Ahriman.html",
+    "image_local_path": "images/screenshots/ahriman.webp",
+    "thumbnail_local_path": "images/thumbnails/ahriman.webp"
+  },
+  {
+    "name": "Dark Flan",
+    "area": "Mt. Gagazet",
+    "category": "Area Fiend",
+    "hp": "12,800",
+    "steal": [
+      "Star Curtain (common)",
+      "Star Curtain(x2) (rare)"
+    ],
+    "drops": [
+      "Mana Sphere (common)",
+      "Mana Sphere(x2) (rare)"
+    ],
+    "sensor_text": "\"No elemental weaknesses. Resistant to physical attacks.\"",
+    "scan_text": "\"Resistant to physical attacks and cuts all elemental damage by half. Casts non-elemental magic like Demi, Bio, Flare, Osmose, and Drain. Kimahri can learn White Wind.\"",
+    "location_notes": "You can find them inside the Mt. Gagazet caves, and you can also find them along the pathway to the Zanarkand Ruins. Unfortunately, it doesn't matter which section of the cave you are in; there is no way to improve your odds of finding one. Just keep hunting until you find them.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Dark-Flan-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Mt-Gagazet/Dark-Flan.html",
+    "image_local_path": "images/screenshots/dark-flan.webp",
+    "thumbnail_local_path": "images/thumbnails/dark-flan.webp"
+  },
+  {
+    "name": "Grenade",
+    "area": "Mt. Gagazet",
+    "category": "Area Fiend",
+    "hp": "7,500",
+    "steal": [
+      "Fire Gem(x2) (common)",
+      "Fire Gem(x3) (rare)"
+    ],
+    "drops": [
+      "Power Sphere"
+    ],
+    "sensor_text": "\"Retaliates with Self-Destruct when attacked three times.\"",
+    "scan_text": "\"Retaliates with Self-Destruct against whoever attacks it a third time. Weak against ice, but has high magic defense, so use Mental Break and your best ice magic. Kimahri can learn Self-Destruct.\"",
+    "location_notes": "You can find them anywhere along the Mt. Gagazet mountain trails.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Grenade-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Mt-Gagazet/Grenade.html",
+    "image_local_path": "images/screenshots/grenade.webp",
+    "thumbnail_local_path": "images/thumbnails/grenade.webp"
+  },
+  {
+    "name": "Grat",
+    "area": "Mt. Gagazet",
+    "category": "Area Fiend",
+    "hp": "4,000",
+    "steal": [
+      "Antidote (common)",
+      "Remedy (rare)"
+    ],
+    "drops": [
+      "Mana Sphere"
+    ],
+    "sensor_text": "\"Vulnerable to fire.\"",
+    "scan_text": "\"Its Seed Cannon packs quite a punch. Seed Burst doesn't do much damage, but may inflict confusion on characters. Vulnerable to fire. Kimahri can learn Seed Cannon.\"",
+    "location_notes": "You can find them anywhere in the Mt. Gagazet caves.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Grat-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Mt-Gagazet/Grat.html",
+    "image_local_path": "images/screenshots/grat.webp",
+    "thumbnail_local_path": "images/thumbnails/grat.webp"
+  },
+  {
+    "name": "Grendel",
+    "area": "Mt. Gagazet",
+    "category": "Area Fiend",
+    "hp": "9,500",
+    "steal": [
+      "Hi-Potion (common)",
+      "Mega-Potion(x2) (rare)"
+    ],
+    "drops": [
+      "Ability Sphere (common)",
+      "Ability Sphere(x2) (rare)"
+    ],
+    "sensor_text": "\"Inflict darkness to evade its attacks. Piercing weapons are the way to go.\"",
+    "scan_text": "\"Inflict darkness to hinder its attacks. Its Flame Ball is a powerful fire attack that hits all, but it needs to Charge before it's released. Use poison and piercing weapons. Kimahri can learn Fire Breath.\"",
+    "location_notes": "You can find them anywhere in the Mt. Gagazet caves or along the walkway to the Zanarkand Ruins.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Grendel-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Mt-Gagazet/Grendel.html",
+    "image_local_path": "images/screenshots/grendel.webp",
+    "thumbnail_local_path": "images/thumbnails/grendel.webp"
+  },
+  {
+    "name": "Bashura",
+    "area": "Mt. Gagazet",
+    "category": "Area Fiend",
+    "hp": "17,000",
+    "steal": [
+      "Soul Spring (common)",
+      "Soul Spring(x2) (rare)"
+    ],
+    "drops": [
+      "Power Sphere (common)",
+      "Power Sphere(x2) (rare)"
+    ],
+    "sensor_text": "\"When it puts up its dukes it will respond to physical attacks with a mighty counter. Use magic and poison to soften it up.\"",
+    "scan_text": "\"Be careful if it puts up its dukes. When it puts up its dukes, it will respond to physical attacks with a mighty counter. Use magic and poison to soften it up.\"",
+    "location_notes": "You can find them anywhere along the Mt. Gagazet mountain trail. This trail is the pathway that leads up to the caves you travel along after meeting the Ronso.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Bashura-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Mt-Gagazet/Bashura.html",
+    "image_local_path": "images/screenshots/bashura.webp",
+    "thumbnail_local_path": "images/thumbnails/bashura.webp"
+  },
+  {
+    "name": "Mandragora",
+    "area": "Mt. Gagazet",
+    "category": "Area Fiend",
+    "hp": "31,000",
+    "steal": [
+      "Remedy(x2) (common)",
+      "Remedy(x3) (rare)"
+    ],
+    "drops": [
+      "Mana Sphere"
+    ],
+    "sensor_text": "Poison",
+    "scan_text": "Darkness",
+    "location_notes": "You can find Mandragora enemies within the Mt. Gagazet Caverns, and they tend to appear more commonly near the entrances and exits to the cave.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Mandragora-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Mt-Gagazet/Mandragora.html",
+    "image_local_path": "images/screenshots/mandragora.webp",
+    "thumbnail_local_path": "images/thumbnails/mandragora.webp"
+  },
+  {
+    "name": "Behemoth",
+    "area": "Mt. Gagazet",
+    "category": "Area Fiend",
+    "hp": "23,000",
+    "steal": [
+      "Ether (common)",
+      "Mana Tablet (rare)"
+    ],
+    "drops": [
+      "Power Sphere"
+    ],
+    "sensor_text": "\"Watch out for its Heave.\"",
+    "scan_text": "\"Its Thundara, Heave, and claw attacks are deadly. One good hit will knock you out. Kimahri can learn Mighty Guard.\"",
+    "location_notes": "You can find them inside the Mt. Gagazet cave. They can also be found along the trail leading to the Zanarkand Ruins. Try rotating between the two areas if you're having trouble finding them until you get lucky.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Behemoth-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Mt-Gagazet/Behemoth.html",
+    "image_local_path": "images/screenshots/behemoth.webp",
+    "thumbnail_local_path": "images/thumbnails/behemoth.webp"
+  },
+  {
+    "name": "Splasher",
+    "area": "Mt. Gagazet",
+    "category": "Area Fiend",
+    "hp": "200",
+    "steal": [
+      "Grenade (common)",
+      "Grenade (rare)"
+    ],
+    "drops": [
+      "Power Sphere"
+    ],
+    "sensor_text": "\"Watch out for Self-Destruct.\"",
+    "scan_text": "\"When defeated, it sometimes inflicts damage on its attacker with Self-Destruct.\"",
+    "location_notes": "You can find them in the underwater sections of the Mt. Gagazet Cave exclusively. Find the part of the cave where your party members are required to swim, and you will encounter them regularly.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Splasher-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Mt-Gagazet/Splasher.html",
+    "image_local_path": "images/screenshots/splasher.webp",
+    "thumbnail_local_path": "images/thumbnails/splasher.webp"
+  },
+  {
+    "name": "Achelous",
+    "area": "Mt. Gagazet",
+    "category": "Area Fiend",
+    "hp": "5,100",
+    "steal": [
+      "Water Gem(x2) (common)",
+      "Healing Spring (rare)"
+    ],
+    "drops": [
+      "Power Sphere"
+    ],
+    "sensor_text": "\"Watch out when it starts glowing. It releases Sonic Wave after the third pulse.\"",
+    "scan_text": "\"It starts glowing when hit. After the 3rdpulse, it attacks with a Sonic Wave. Put it to sleep to prevent it from glowing. It takes no damage from water, but is weak against lightning.\"",
+    "location_notes": "You can only find them in the underwater sections of the Mt. Gagazet Cave exclusively. Find the part of the cave where your party members are required to swim, and you will encounter them regularly.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Achelous-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Mt-Gagazet/Achelous.html",
+    "image_local_path": "images/screenshots/achelous.webp",
+    "thumbnail_local_path": "images/thumbnails/achelous.webp"
+  },
+  {
+    "name": "Maelspike",
+    "area": "Mt. Gagazet",
+    "category": "Area Fiend",
+    "hp": "10,000",
+    "steal": [
+      "Water Gem(x2) (common)",
+      "Water Gem(x3) (rare)"
+    ],
+    "drops": [
+      "Mana Sphere"
+    ],
+    "sensor_text": "Darkness",
+    "scan_text": "\"Watch out for Maelstrom.\"",
+    "location_notes": "You can only find them in the underwater sections of the Mt. Gagazet Cave exclusively. Find the part of the cave where your party members are required to swim, and you will encounter them regularly.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Maelspike-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Mt-Gagazet/Maelspike.html",
+    "image_local_path": "images/screenshots/maelspike.webp",
+    "thumbnail_local_path": "images/thumbnails/maelspike.webp"
+  },
+  {
+    "name": "Exoray",
+    "area": "Inside Sin",
+    "category": "Area Fiend",
+    "hp": "7,400",
+    "steal": [
+      "Silence Grenade (common)",
+      "Ether (rare)"
+    ],
+    "drops": [
+      "Mana Sphere"
+    ],
+    "sensor_text": "Darkness",
+    "scan_text": "Poison",
+    "location_notes": "You can find them anywhere Inside Sin.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Exoray-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Inside-Sin/Exoray.html",
+    "image_local_path": "images/screenshots/exoray.webp",
+    "thumbnail_local_path": "images/thumbnails/exoray.webp"
+  },
+  {
+    "name": "Wraith",
+    "area": "Inside Sin",
+    "category": "Area Fiend",
+    "hp": "22,222",
+    "steal": [
+      "Farplane Shadow (common)",
+      "Farplane Wind (rare)"
+    ],
+    "drops": [
+      "Mana Sphere (common)",
+      "Mana Sphere(x2) (rare)"
+    ],
+    "sensor_text": "Doom",
+    "scan_text": "Immune to Sensor",
+    "location_notes": "You can find them anywhere Inside Sin or in the Omega Ruins.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Wraith-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Inside-Sin/Wraith.html",
+    "image_local_path": "images/screenshots/wraith.webp",
+    "thumbnail_local_path": "images/thumbnails/wraith.webp"
+  },
+  {
+    "name": "Gemini (Sword)",
+    "area": "Inside Sin",
+    "category": "Area Fiend",
+    "hp": "36,000",
+    "steal": [
+      "Light Curtain (common)",
+      "Light Curtain(x2) (rare)"
+    ],
+    "drops": [
+      "Power Sphere (common)",
+      "Power Sphere(x2) (rare)"
+    ],
+    "sensor_text": "\"Together they unleash Double Reaper. Focus your attacks to defeat one quickly.\"",
+    "scan_text": "\"After receiving a certain amount of damage, they unleash a powerful synchronized attack, the Double Reaper. One absorbs lightning and fire, while the other absorbs water and ice.\"",
+    "location_notes": "You can find them anywhere Inside Sin. There is also one set that you will battle in theOmega Ruins.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Gemini-Sword-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Inside-Sin/Gemini-Sword.html",
+    "image_local_path": "images/screenshots/gemini-sword.webp",
+    "thumbnail_local_path": "images/thumbnails/gemini-sword.webp"
+  },
+  {
+    "name": "Gemini (Club)",
+    "area": "Inside Sin",
+    "category": "Area Fiend",
+    "hp": "36,000",
+    "steal": [
+      "Light Curtain (common)",
+      "Light Curtain(x2) (rare)"
+    ],
+    "drops": [
+      "Power Sphere (common)",
+      "Power Sphere(x2) (rare)"
+    ],
+    "sensor_text": "\"Together they unleash Double Reaper. Focus your attacks to defeat one quickly.\"",
+    "scan_text": "\"After receiving a certain amount of damage, they unleash a powerful synchronized attack, the Double Reaper. One absorbs lightning and fire, while the other absorbs water and ice.\"",
+    "location_notes": "You can find them anywhere Inside Sin. There is also one set that you will battle in theOmega Ruins.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Gemini-Club-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Inside-Sin/Gemini-Club.html",
+    "image_local_path": "images/screenshots/gemini-club.webp",
+    "thumbnail_local_path": "images/thumbnails/gemini-club.webp"
+  },
+  {
+    "name": "Demonolith",
+    "area": "Inside Sin",
+    "category": "Area Fiend",
+    "hp": "45,000",
+    "steal": [
+      "Petrify Grenade (common)",
+      "Petrify Grenade(x2) (rare)"
+    ],
+    "drops": [
+      "Mana Sphere (common)",
+      "Lv. 3 Key Sphere(x2) (rare)"
+    ],
+    "sensor_text": "Curse",
+    "scan_text": "Darkness",
+    "location_notes": "You can find them anywhere Inside Sin and in Omega Ruins.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Demonolith-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Inside-Sin/Demonolith.html",
+    "image_local_path": "images/screenshots/demonolith.webp",
+    "thumbnail_local_path": "images/thumbnails/demonolith.webp"
+  },
+  {
+    "name": "Great Malboro",
+    "area": "Inside Sin",
+    "category": "Area Fiend",
+    "hp": "64,000",
+    "steal": [
+      "Remedy (common)",
+      "Mana Tonic (rare)"
+    ],
+    "drops": [
+      "Mana Sphere"
+    ],
+    "sensor_text": "\"Breathes Bad Breath1⁄3of the time. Be ready for anything.\"",
+    "scan_text": "\"Danger! There is a 1/3 chance of it attacking with Bad Breath. To avoid being wiped out, equip armor that guards against status effects and attack with fire. Kimahri can learn Bad Breath.\"",
+    "location_notes": "You can find them anywhere Inside Sin or in the Omega Ruins.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Great-Malboro-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Inside-Sin/Great-Malboro.html",
+    "image_local_path": "images/screenshots/great-malboro.webp",
+    "thumbnail_local_path": "images/thumbnails/great-malboro.webp"
+  },
+  {
+    "name": "Barbatos",
+    "area": "Inside Sin",
+    "category": "Area Fiend",
+    "hp": "95,000",
+    "steal": [
+      "Star Curtain (common)",
+      "Blessed Gem (rare)"
+    ],
+    "drops": [
+      "Power Sphere (common)",
+      "Return Sphere (rare)"
+    ],
+    "sensor_text": "\"Covered in thick armor. Armor Break works well, but watch out for a powerful counterattack. All of its attacks deal great damage, so beware.\"",
+    "scan_text": "",
+    "location_notes": "You can find them anywhere Inside Sin.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Barbatos-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Inside-Sin/Barbatos.html",
+    "image_local_path": "images/screenshots/barbatos.webp",
+    "thumbnail_local_path": "images/thumbnails/barbatos.webp"
+  },
+  {
+    "name": "Adamantoise",
+    "area": "Inside Sin",
+    "category": "Area Fiend",
+    "hp": "54,400",
+    "steal": [
+      "Healing Water (common)",
+      "Stamina Tablet (rare)"
+    ],
+    "drops": [
+      "Power Sphere(x2) (common)",
+      "Power Sphere(x5) (rare)"
+    ],
+    "sensor_text": "\"Covered by a hard shell.\"",
+    "scan_text": "\"Protected by a hard shell. Attacks multiple targets with its fire-based Breath. Armor Break and Mental Break are the way to go.\"",
+    "location_notes": "You can find them anywhere Inside Sin but also in the Omega Ruins. They are one of the more common enemies that you will find in these areas.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Adamantoise-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Inside-Sin/Adamantoise.html",
+    "image_local_path": "images/screenshots/adamantoise.webp",
+    "thumbnail_local_path": "images/thumbnails/adamantoise.webp"
+  },
+  {
+    "name": "Behemoth King",
+    "area": "Inside Sin",
+    "category": "Area Fiend",
+    "hp": "67,500",
+    "steal": [
+      "Healing Spring (common)",
+      "Twin Stars(x2) (rare)"
+    ],
+    "drops": [
+      "Power Sphere (common)",
+      "Lv. 3 Key Sphere (rare)"
+    ],
+    "sensor_text": "\"Retaliates with Meteor when defeated.\"",
+    "scan_text": "\"Its claw, lightning, and Heave attacks are deadly. Watch out for the Meteor it casts when it dies. Cast Protect or defend with the (triangle) button to survive. Kimahri can learn Mighty Guard.\"",
+    "location_notes": "You can find them anywhere Inside Sin. They tend to be more abundant the closer you get to the end boss.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Behemoth-King-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Inside-Sin/Behemoth-King.html",
+    "image_local_path": "images/screenshots/behemoth-king.webp",
+    "thumbnail_local_path": "images/thumbnails/behemoth-king.webp"
+  },
+  {
+    "name": "Stratoavis",
+    "area": "Area Conquest",
+    "category": "Area Conquest",
+    "hp": "320,000",
+    "steal": [
+      "Smoke Bomb(x3) (common)",
+      "Stamina Spring(x2) (rare)"
+    ],
+    "drops": [
+      "Amulet(x2) (common)",
+      "Dark Matter (rare)"
+    ],
+    "sensor_text": "Immune",
+    "scan_text": "",
+    "location_notes": "",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Stratoavis-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Area-Conquest/Stratoavis.html",
+    "image_local_path": "images/screenshots/stratoavis.webp",
+    "thumbnail_local_path": "images/thumbnails/stratoavis.webp"
+  },
+  {
+    "name": "Malboro Menace",
+    "area": "Area Conquest",
+    "category": "Area Conquest",
+    "hp": "640,000",
+    "steal": [
+      "Remedy(x4) (common)",
+      "Mana Spring(x2) (rare)"
+    ],
+    "drops": [
+      "Mana Tonic(x2) (common)",
+      "Dark Matter (rare)"
+    ],
+    "sensor_text": "Silence",
+    "scan_text": "Darkness",
+    "location_notes": "",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Malboro-Menace-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Area-Conquest/Malboro-Menace.html",
+    "image_local_path": "images/screenshots/malboro-menace.webp",
+    "thumbnail_local_path": "images/thumbnails/malboro-menace.webp"
+  },
+  {
+    "name": "Kottos",
+    "area": "Area Conquest",
+    "category": "Area Conquest",
+    "hp": "440,000",
+    "steal": [
+      "Stamina Spring(x4) (common)",
+      "Soul Spring(x2) (rare)"
+    ],
+    "drops": [
+      "Healing Spring(x20) (common)",
+      "Dark Matter (rare)"
+    ],
+    "sensor_text": "Immune",
+    "scan_text": "",
+    "location_notes": "",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Kottos-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Area-Conquest/Kottos.html",
+    "image_local_path": "images/screenshots/kottos.webp",
+    "thumbnail_local_path": "images/thumbnails/kottos.webp"
+  },
+  {
+    "name": "Coeurlregina",
+    "area": "Area Conquest",
+    "category": "Area Conquest",
+    "hp": "380,000",
+    "steal": [
+      "Farplane Wind(x2) (common)",
+      "Blessed Gem (rare)"
+    ],
+    "drops": [
+      "Shining Gem(x3) (common)",
+      "Dark Matter (rare)"
+    ],
+    "sensor_text": "Confuse",
+    "scan_text": "Curse",
+    "location_notes": "",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Coeurlregina-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Area-Conquest/Coeurlregina.html",
+    "image_local_path": "images/screenshots/coeurlregina.webp",
+    "thumbnail_local_path": "images/thumbnails/coeurlregina.webp"
+  },
+  {
+    "name": "Jormungand",
+    "area": "Area Conquest",
+    "category": "Area Conquest",
+    "hp": "520,000",
+    "steal": [
+      "Petrify Grenade(x4) (common)",
+      "Three Stars (rare)"
+    ],
+    "drops": [
+      "Supreme Gem(x2) (common)",
+      "Dark Matter (rare)"
+    ],
+    "sensor_text": "Petrify",
+    "scan_text": "Immune",
+    "location_notes": "",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Jormungand-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Area-Conquest/Jormungand.html",
+    "image_local_path": "images/screenshots/jormungand.webp",
+    "thumbnail_local_path": "images/thumbnails/jormungand.webp"
+  },
+  {
+    "name": "Cactuar King",
+    "area": "Area Conquest",
+    "category": "Area Conquest",
+    "hp": "100,000",
+    "steal": [
+      "Chocobo Wing(x2) (common)",
+      "Designer Wallet (rare)"
+    ],
+    "drops": [
+      "Blessed Gem(x3) (common)",
+      "Dark Matter (rare)"
+    ],
+    "sensor_text": "Immune",
+    "scan_text": "",
+    "location_notes": "",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Cactuar-King-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Area-Conquest/Cactuar-King.html",
+    "image_local_path": "images/screenshots/cactuar-king.webp",
+    "thumbnail_local_path": "images/thumbnails/cactuar-king.webp"
+  },
+  {
+    "name": "Espada",
+    "area": "Area Conquest",
+    "category": "Area Conquest",
+    "hp": "280,000",
+    "steal": [
+      "Farplane Shadow(x4) (common)",
+      "Farplane Wind (rare)"
+    ],
+    "drops": [
+      "Rename Card (common)",
+      "Dark Matter (rare)"
+    ],
+    "sensor_text": "Immune",
+    "scan_text": "",
+    "location_notes": "",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Espada-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Area-Conquest/Espada.html",
+    "image_local_path": "images/screenshots/espada.webp",
+    "thumbnail_local_path": "images/thumbnails/espada.webp"
+  },
+  {
+    "name": "Abyss Wyrm",
+    "area": "Area Conquest",
+    "category": "Area Conquest",
+    "hp": "480,000",
+    "steal": [
+      "Shadow Gem(x4) (common)",
+      "Stamina Tablet (rare)"
+    ],
+    "drops": [
+      "Stamina Tonic (common)",
+      "Dark Matter (rare)"
+    ],
+    "sensor_text": "Immune",
+    "scan_text": "",
+    "location_notes": "",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Abyss-Wyrm-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Area-Conquest/Abyss-Worm.html",
+    "image_local_path": "images/screenshots/abyss-wyrm.webp",
+    "thumbnail_local_path": "images/thumbnails/abyss-wyrm.webp"
+  },
+  {
+    "name": "Chimerageist",
+    "area": "Area Conquest",
+    "category": "Area Conquest",
+    "hp": "120,000",
+    "steal": [
+      "Mana Spring(x2) (common)",
+      "Stamina Spring(x2) (rare)"
+    ],
+    "drops": [
+      "Return Sphere (common)",
+      "Dark Matter (rare)"
+    ],
+    "sensor_text": "Immune",
+    "scan_text": "",
+    "location_notes": "",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Chimerageist-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Area-Conquest/Chimerageist.html",
+    "image_local_path": "images/screenshots/chimerageist.webp",
+    "thumbnail_local_path": "images/thumbnails/chimerageist.webp"
+  },
+  {
+    "name": "Don Tonberry",
+    "area": "Area Conquest",
+    "category": "Area Conquest",
+    "hp": "480,000",
+    "steal": [
+      "Candle of Life(x2) (common)",
+      "Designer Wallet (rare)"
+    ],
+    "drops": [
+      "Farplane Wind(x3) (common)",
+      "Dark Matter (rare)"
+    ],
+    "sensor_text": "Damage = (Total Number of Enemies Defeated by Target) * 100",
+    "scan_text": "Immune",
+    "location_notes": "",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Don-Tonberry-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Area-Conquest/Don-Tonberry.html",
+    "image_local_path": "images/screenshots/don-tonberry.webp",
+    "thumbnail_local_path": "images/thumbnails/don-tonberry.webp"
+  },
+  {
+    "name": "Catoblepas",
+    "area": "Area Conquest",
+    "category": "Area Conquest",
+    "hp": "550,000",
+    "steal": [
+      "Healing Spring(x3) (common)",
+      "Stamina Tonic (rare)"
+    ],
+    "drops": [
+      "Three Stars (common)",
+      "Dark Matter (rare)"
+    ],
+    "sensor_text": "Immune",
+    "scan_text": "",
+    "location_notes": "",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Catoblepas-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Area-Conquest/Catoblepas.html",
+    "image_local_path": "images/screenshots/catoblepas.webp",
+    "thumbnail_local_path": "images/thumbnails/catoblepas.webp"
+  },
+  {
+    "name": "Abaddon",
+    "area": "Area Conquest",
+    "category": "Area Conquest",
+    "hp": "380,000",
+    "steal": [
+      "Purifying Salt(x3) (common)",
+      "Shining Gem (rare)"
+    ],
+    "drops": [
+      "Mana Tablet (common)",
+      "Dark Matter (rare)"
+    ],
+    "sensor_text": "Curse",
+    "scan_text": "Darkness",
+    "location_notes": "",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Abaddon-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Area-Conquest/Abaddon.html",
+    "image_local_path": "images/screenshots/abaddon.webp",
+    "thumbnail_local_path": "images/thumbnails/abaddon.webp"
+  },
+  {
+    "name": "Vorban",
+    "area": "Area Conquest",
+    "category": "Area Conquest",
+    "hp": "630,000",
+    "steal": [
+      "Healing Spring(x2) (common)",
+      "Stamina Tablet (rare)"
+    ],
+    "drops": [
+      "Friend Sphere(x2) (common)",
+      "Dark Matter (rare)"
+    ],
+    "sensor_text": "Immune",
+    "scan_text": "",
+    "location_notes": "",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Vorban-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Area-Conquest/Vorban.html",
+    "image_local_path": "images/screenshots/vorban.webp",
+    "thumbnail_local_path": "images/thumbnails/vorban.webp"
+  },
+  {
+    "name": "Fenrir",
+    "area": "Species Conquest",
+    "category": "Species Conquest",
+    "hp": "850,000",
+    "steal": [
+      "Chocobo Feather(x2) (common)",
+      "Chocobo Wing (rare)"
+    ],
+    "drops": [
+      "Agility Sphere (common)",
+      "Dark Matter (rare)"
+    ],
+    "sensor_text": "\"Immune to sensors.\"",
+    "scan_text": "\"Immune to scans.\"",
+    "location_notes": "",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Fenrir-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Species-Conquest/Fenrir.html",
+    "image_local_path": "images/screenshots/fenrir.webp",
+    "thumbnail_local_path": "images/thumbnails/fenrir.webp"
+  },
+  {
+    "name": "Ornitholestes",
+    "area": "Species Conquest",
+    "category": "Species Conquest",
+    "hp": "800,000",
+    "steal": [
+      "Rename Card (common)",
+      "Chocobo Wing (rare)"
+    ],
+    "drops": [
+      "Gambler's Spirit(x2) (common)",
+      "Dark Matter (rare)"
+    ],
+    "sensor_text": "\"Immune to sensors.\"",
+    "scan_text": "\"Immune to scans.\"",
+    "location_notes": "",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Ornitholestes-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Species-Conquest/Ornitholestes.html",
+    "image_local_path": "images/screenshots/ornitholestes.webp",
+    "thumbnail_local_path": "images/thumbnails/ornitholestes.webp"
+  },
+  {
+    "name": "Pteryx",
+    "area": "Species Conquest",
+    "category": "Species Conquest",
+    "hp": "100,000",
+    "steal": [
+      "Smoke Bomb(x4) (common)",
+      "Candle of Life (rare)"
+    ],
+    "drops": [
+      "Evasion Sphere (common)",
+      "Dark Matter (rare)"
+    ],
+    "sensor_text": "\"Immune to sensors.\"",
+    "scan_text": "\"Immune to scans.\"",
+    "location_notes": "",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Pteryx-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Species-Conquest/Pteryx.html",
+    "image_local_path": "images/screenshots/pteryx.webp",
+    "thumbnail_local_path": "images/thumbnails/pteryx.webp"
+  },
+  {
+    "name": "Hornet",
+    "area": "Species Conquest",
+    "category": "Species Conquest",
+    "hp": "620,000",
+    "steal": [
+      "Poison Fang(x4) (common)",
+      "Purifying Salt(x2) (rare)"
+    ],
+    "drops": [
+      "Accuracy Sphere (common)",
+      "Dark Matter (rare)"
+    ],
+    "sensor_text": "\"Immune to sensors.\"",
+    "scan_text": "\"Immune to scans.\"",
+    "location_notes": "",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Hornet-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Species-Conquest/Hornet.html",
+    "image_local_path": "images/screenshots/hornet.webp",
+    "thumbnail_local_path": "images/thumbnails/hornet.webp"
+  },
+  {
+    "name": "Vidatu",
+    "area": "Species Conquest",
+    "category": "Species Conquest",
+    "hp": "95,000",
+    "steal": [
+      "Lightning Gem(x4) (common)",
+      "Mana Tonic (rare)"
+    ],
+    "drops": [
+      "MP Sphere (common)",
+      "Dark Matter (rare)"
+    ],
+    "sensor_text": "\"Immune to sensors.\"",
+    "scan_text": "\"Immune to scans.\"",
+    "location_notes": "",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Vidatu-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Species-Conquest/Vidatu.html",
+    "image_local_path": "images/screenshots/vidatu.webp",
+    "thumbnail_local_path": "images/thumbnails/vidatu.webp"
+  },
+  {
+    "name": "One-Eye",
+    "area": "Species Conquest",
+    "category": "Species Conquest",
+    "hp": "150,000",
+    "steal": [
+      "Lunar Curtain(x3) (common)",
+      "Blessed Gem (rare)"
+    ],
+    "drops": [
+      "Magic Def Sphere (common)",
+      "Dark Matter (rare)"
+    ],
+    "sensor_text": "\"Immune to sensors.\"",
+    "scan_text": "\"Immune to scans.\"",
+    "location_notes": "",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/One-Eye-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Species-Conquest/One-Eye.html",
+    "image_local_path": "images/screenshots/one-eye.webp",
+    "thumbnail_local_path": "images/thumbnails/one-eye.webp"
+  },
+  {
+    "name": "Jumbo Flan",
+    "area": "Species Conquest",
+    "category": "Species Conquest",
+    "hp": "1,300,000",
+    "steal": [
+      "Lunar Curtain(x4) (common)",
+      "Mana Tablet (rare)"
+    ],
+    "drops": [
+      "Magic Sphere (common)",
+      "Dark Matter (rare)"
+    ],
+    "sensor_text": "\"Immune to sensors.\"",
+    "scan_text": "\"Immune to scans.\"",
+    "location_notes": "",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Jumbo-Flan-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Species-Conquest/Jumbo-Flan.html",
+    "image_local_path": "images/screenshots/jumbo-flan.webp",
+    "thumbnail_local_path": "images/thumbnails/jumbo-flan.webp"
+  },
+  {
+    "name": "Nega Elemental",
+    "area": "Species Conquest",
+    "category": "Species Conquest",
+    "hp": "1,300,000",
+    "steal": [
+      "Star Curtain(x4) (common)",
+      "Twin Stars (rare)"
+    ],
+    "drops": [
+      "Twin Stars(x2) (common)",
+      "Dark Matter (rare)"
+    ],
+    "sensor_text": "\"Immune to sensors.\"",
+    "scan_text": "\"Immune to scans.\"",
+    "location_notes": "",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Nega-Elemental-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Species-Conquest/Nega-Elemental.html",
+    "image_local_path": "images/screenshots/nega-elemental.webp",
+    "thumbnail_local_path": "images/thumbnails/nega-elemental.webp"
+  },
+  {
+    "name": "Tanket",
+    "area": "Species Conquest",
+    "category": "Species Conquest",
+    "hp": "900,000",
+    "steal": [
+      "Light Curtain(x4) (common)",
+      "Lunar Curtain(x4) (rare)"
+    ],
+    "drops": [
+      "Defense Sphere (common)",
+      "Dark Matter (rare)"
+    ],
+    "sensor_text": "\"Immune to sensors.\"",
+    "scan_text": "\"Immune to scans.\"",
+    "location_notes": "",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Tanket-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Species-Conquest/Tanket.html",
+    "image_local_path": "images/screenshots/tanket.webp",
+    "thumbnail_local_path": "images/thumbnails/tanket.webp"
+  },
+  {
+    "name": "Fafnir",
+    "area": "Species Conquest",
+    "category": "Species Conquest",
+    "hp": "1,100,000",
+    "steal": [
+      "Gold Hourglass(x2) (common)",
+      "Stamina Spring(x2) (rare)"
+    ],
+    "drops": [
+      "Light Curtain(x20) (common)",
+      "Dark Matter (rare)"
+    ],
+    "sensor_text": "\"Immune to sensors.\"",
+    "scan_text": "\"Immune to scans.\"",
+    "location_notes": "",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Fafnir-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Species-Conquest/Fafnir.html",
+    "image_local_path": "images/screenshots/fafnir.webp",
+    "thumbnail_local_path": "images/thumbnails/fafnir.webp"
+  },
+  {
+    "name": "Sleep Sprout",
+    "area": "Species Conquest",
+    "category": "Species Conquest",
+    "hp": "98,000",
+    "steal": [
+      "Poison Fang(x4) (common)",
+      "Farplane Wind (rare)"
+    ],
+    "drops": [
+      "Teleport Sphere (common)",
+      "Dark Matter (rare)"
+    ],
+    "sensor_text": "\"Immune to sensors.\"",
+    "scan_text": "\"Immune to scans.\"",
+    "location_notes": "",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Sleep-Sprout-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Species-Conquest/Sleep-Sprout.html",
+    "image_local_path": "images/screenshots/sleep-sprout.webp",
+    "thumbnail_local_path": "images/thumbnails/sleep-sprout.webp"
+  },
+  {
+    "name": "Bomb King",
+    "area": "Species Conquest",
+    "category": "Species Conquest",
+    "hp": "480,000",
+    "steal": [
+      "Fire Gem(x4) (common)",
+      "Shining Gem (rare)"
+    ],
+    "drops": [
+      "Door to Tomorrow (common)",
+      "Dark Matter (rare)"
+    ],
+    "sensor_text": "\"Immune to sensors.\"",
+    "scan_text": "\"Immune to scans.\"",
+    "location_notes": "",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Bomb-King-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Species-Conquest/Bomb-King.html",
+    "image_local_path": "images/screenshots/bomb-king.webp",
+    "thumbnail_local_path": "images/thumbnails/bomb-king.webp"
+  },
+  {
+    "name": "Juggernaut",
+    "area": "Species Conquest",
+    "category": "Species Conquest",
+    "hp": "1,200,000",
+    "steal": [
+      "Lunar Curtain(x4) (common)",
+      "Shining Gem (rare)"
+    ],
+    "drops": [
+      "Strength Sphere (common)",
+      "Dark Matter (rare)"
+    ],
+    "sensor_text": "Armor Break",
+    "scan_text": "\"Immune to sensors.\"",
+    "location_notes": "",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Juggernaut-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Species-Conquest/Juggernaut.html",
+    "image_local_path": "images/screenshots/juggernaut.webp",
+    "thumbnail_local_path": "images/thumbnails/juggernaut.webp"
+  },
+  {
+    "name": "Ironclad",
+    "area": "Species Conquest",
+    "category": "Species Conquest",
+    "hp": "2,000,000",
+    "steal": [
+      "Light Curtain(x4) (common)",
+      "Stamina Tablet (rare)"
+    ],
+    "drops": [
+      "HP Sphere (common)",
+      "Dark Matter (rare)"
+    ],
+    "sensor_text": "Armor Break",
+    "scan_text": "\"Immune to sensors.\"",
+    "location_notes": "",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Ironclan-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Species-Conquest/Ironclad.html",
+    "image_local_path": "images/screenshots/ironclad.webp",
+    "thumbnail_local_path": "images/thumbnails/ironclad.webp"
+  },
+  {
+    "name": "Earth Eater",
+    "area": "Original",
+    "category": "Original",
+    "hp": "1,300,000",
+    "steal": [
+      "Gambler's Spirit (common)",
+      "Lv. 1 Key Sphere (rare)"
+    ],
+    "drops": [
+      "Fortune Sphere (common)",
+      "Dark Matter (rare)"
+    ],
+    "sensor_text": "\"Immune to sensors.\"",
+    "scan_text": "\"Immune to scans.\"",
+    "location_notes": "",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Earth-Eater-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Original/Earth-Eater.html",
+    "image_local_path": "images/screenshots/earth-eater.webp",
+    "thumbnail_local_path": "images/thumbnails/earth-eater.webp"
+  },
+  {
+    "name": "Greater Sphere",
+    "area": "Original",
+    "category": "Original",
+    "hp": "1,500,000",
+    "steal": [
+      "Gambler's Spirit (common)",
+      "Return Sphere (rare)"
+    ],
+    "drops": [
+      "Luck Sphere (common)",
+      "Dark Matter (rare)"
+    ],
+    "sensor_text": "\"Immune to sensors.\"",
+    "scan_text": "\"Immune to scans.\"",
+    "location_notes": "",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Greater-Sphere-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Original/Greater-Sphere.html",
+    "image_local_path": "images/screenshots/greater-sphere.webp",
+    "thumbnail_local_path": "images/thumbnails/greater-sphere.webp"
+  },
+  {
+    "name": "Catastrophe",
+    "area": "Original",
+    "category": "Original",
+    "hp": "2,200,000",
+    "steal": [
+      "Gambler's Spirit (common)",
+      "Lv. 2 Key Sphere (rare)"
+    ],
+    "drops": [
+      "Designer Wallet (common)",
+      "Dark Matter (rare)"
+    ],
+    "sensor_text": "\"Immune to sensors.\"",
+    "scan_text": "\"Immune to scans.\"",
+    "location_notes": "",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Catastrophe-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Original/Catastrophe.html",
+    "image_local_path": "images/screenshots/catastrophe.webp",
+    "thumbnail_local_path": "images/thumbnails/catastrophe.webp"
+  },
+  {
+    "name": "Th'uban",
+    "area": "Original",
+    "category": "Original",
+    "hp": "3,000,000",
+    "steal": [
+      "Gambler's Spirit (common)",
+      "Teleport Sphere (rare)"
+    ],
+    "drops": [
+      "Underdog's Secret (common)",
+      "Dark Matter (rare)"
+    ],
+    "sensor_text": "\"Immune to sensors.\"",
+    "scan_text": "\"Immune to scans.\"",
+    "location_notes": "",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Thuban-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Original/Thuban.html",
+    "image_local_path": "images/screenshots/th-uban.webp",
+    "thumbnail_local_path": "images/thumbnails/th-uban.webp"
+  },
+  {
+    "name": "Neslug",
+    "area": "Original",
+    "category": "Original",
+    "hp": "4,000,000",
+    "steal": [
+      "Gambler's Spirit (common)",
+      "Friend Sphere (rare)"
+    ],
+    "drops": [
+      "Pendulum (common)",
+      "Dark Matter (rare)"
+    ],
+    "sensor_text": "Armor Break",
+    "scan_text": "Mental Break",
+    "location_notes": "",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Neslug-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Original/Neslug.html",
+    "image_local_path": "images/screenshots/neslug.webp",
+    "thumbnail_local_path": "images/thumbnails/neslug.webp"
+  },
+  {
+    "name": "Ultima Buster",
+    "area": "Original",
+    "category": "Original",
+    "hp": "5,000,000",
+    "steal": [
+      "Gambler's Spirit (common)",
+      "Lv. 3 Key Sphere (rare)"
+    ],
+    "drops": [
+      "Winning Formula (common)",
+      "Dark Matter (rare)"
+    ],
+    "sensor_text": "\"Immune to sensors.\"",
+    "scan_text": "\"Immune to scans.\"",
+    "location_notes": "",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Ultima-Buster-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Original/Ultima-Buster.html",
+    "image_local_path": "images/screenshots/ultima-buster.webp",
+    "thumbnail_local_path": "images/thumbnails/ultima-buster.webp"
+  },
+  {
+    "name": "Shinryu",
+    "area": "Original",
+    "category": "Original",
+    "hp": "2,000,000",
+    "steal": [
+      "Gambler's Spirit (common)",
+      "Three Stars (rare)"
+    ],
+    "drops": [
+      "Wings to Discovery (common)",
+      "Dark Matter (rare)"
+    ],
+    "sensor_text": "\"Immune to sensors.\"",
+    "scan_text": "\"Immune to scans.\"",
+    "location_notes": "",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Shinryu-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Original/Shinryu.html",
+    "image_local_path": "images/screenshots/shinryu.webp",
+    "thumbnail_local_path": "images/thumbnails/shinryu.webp"
+  },
+  {
+    "name": "Nemesis",
+    "area": "Original",
+    "category": "Original",
+    "hp": "10,000,000",
+    "steal": [
+      "Lv. 4 Key Sphere (common)",
+      "Warp Sphere (rare)"
+    ],
+    "drops": [
+      "Warp Sphere (common)",
+      "Dark Matter (rare)"
+    ],
+    "sensor_text": "\"Immune to sensors.\"",
+    "scan_text": "\"Immune to scans.\"",
+    "location_notes": "",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Nemesis-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Original/Nemesis.html",
+    "image_local_path": "images/screenshots/nemesis.webp",
+    "thumbnail_local_path": "images/thumbnails/nemesis.webp"
+  },
+  {
+    "name": "Yowie",
+    "area": "Stolen Fayth Cavern",
+    "category": "Area Fiend",
+    "hp": "900",
+    "steal": [
+      "Soft (common)",
+      "Petrify Grenade (rare)"
+    ],
+    "drops": [
+      "Speed Sphere (common)",
+      "Power Sphere (rare)"
+    ],
+    "sensor_text": "\"Very nimble. Resistant to magic. Watch out for petrification and silence.\"",
+    "scan_text": "\"Very nimble and hard to hit. Magic defense is also high. Takes only half damage from fire, lightning and water. Attacks may cause petrification and silence.\"",
+    "location_notes": "They can be found anywhere in the Cavern of the Stolen Fayth. They tend to be more abundant near and around the Save Sphere at the entrance.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Yowie-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Stolen-Fayth-Cavern/Yowie.html",
+    "image_local_path": "images/screenshots/yowie.webp",
+    "thumbnail_local_path": "images/thumbnails/yowie.webp"
+  },
+  {
+    "name": "Imp",
+    "area": "Stolen Fayth Cavern",
+    "category": "Area Fiend",
+    "hp": "880",
+    "steal": [
+      "Lightning Gem (common)",
+      "Lightning Gem(x2) (rare)"
+    ],
+    "drops": [
+      "Mana Sphere"
+    ],
+    "sensor_text": "\"Aerial. Resistant to magic.\"",
+    "scan_text": "\"Aerial and hard to hit. It's weak against water, but has high magic defense. The only attack it has is Thundaga, so inflict silence to leave it powerless.\"",
+    "location_notes": "You can find them anywhere inside the Cavern of the Stolen Fayth.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Imp-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Stolen-Fayth-Cavern/Imp.html",
+    "image_local_path": "images/screenshots/imp.webp",
+    "thumbnail_local_path": "images/thumbnails/imp.webp"
+  },
+  {
+    "name": "Dark Element",
+    "area": "Stolen Fayth Cavern",
+    "category": "Area Fiend",
+    "hp": "1,800",
+    "steal": [
+      "Shining Thorn (common)",
+      "Shining Thorn(x2) (rare)"
+    ],
+    "drops": [
+      "Mana Sphere"
+    ],
+    "sensor_text": "\"No elemental weaknesses. Casts Reflect on itself.\"",
+    "scan_text": "\"No elemental weaknesses, and physical attacks hardly hurt it. Casts Reflect on itself. If its Reflect status is dispelled, it retaliates with Bio, Osmose, and Drain.\"",
+    "location_notes": "You can find them anywhere in the Cavern of the Stolen Fayth.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Dark-Element-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Stolen-Fayth-Cavern/Dark-Element.html",
+    "image_local_path": "images/screenshots/dark-element.webp",
+    "thumbnail_local_path": "images/thumbnails/dark-element.webp"
+  },
+  {
+    "name": "Nidhogg",
+    "area": "Stolen Fayth Cavern",
+    "category": "Area Fiend",
+    "hp": "2,000",
+    "steal": [
+      "Hi-Potion (common)",
+      "Gold Hourglass (rare)"
+    ],
+    "drops": [
+      "Power Sphere"
+    ],
+    "sensor_text": "Slow",
+    "scan_text": "\"Covered with hard scales. Piercing weapons are the way to go. Watch out for Slow.\"",
+    "location_notes": "You can find them anywhere inside the Cavern of the Stolen Fayth.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Nidhogg-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Stolen-Fayth-Cavern/Nidhogg.html",
+    "image_local_path": "images/screenshots/nidhogg.webp",
+    "thumbnail_local_path": "images/thumbnails/nidhogg.webp"
+  },
+  {
+    "name": "Thorn",
+    "area": "Stolen Fayth Cavern",
+    "category": "Area Fiend",
+    "hp": "4,080",
+    "steal": [
+      "Silence Grenade(x2) (common)",
+      "Ether (rare)"
+    ],
+    "drops": [
+      "Mana Sphere"
+    ],
+    "sensor_text": "\"Counters physical attacks with Pollen, which induces sleep and darkness.\"",
+    "scan_text": "\"Casts Fira. Putting it to sleep is effective. Releases sleep and darkness-inducing Pollen when hit by a weapon. Vulnerable to fire.\"",
+    "location_notes": "You can find them anywhere inside the Cavern of the Stolen Fayth.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Thorn-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Stolen-Fayth-Cavern/Thorn.html",
+    "image_local_path": "images/screenshots/thorn.webp",
+    "thumbnail_local_path": "images/thumbnails/thorn.webp"
+  },
+  {
+    "name": "Valaha",
+    "area": "Stolen Fayth Cavern",
+    "category": "Area Fiend",
+    "hp": "8,700",
+    "steal": [
+      "Hi-Potion (common)",
+      "Hi-Potion(x2) (rare)"
+    ],
+    "drops": [
+      "Ability Sphere"
+    ],
+    "sensor_text": "\"Inflict darkness to evade its attacks.\"",
+    "scan_text": "\"Inflict darkness to hinder its attacks. Its Flame Ball is a powerful fire attack that hits all, but it needs to Charge before it's released. Kimahri can learn Fire Breath.\"",
+    "location_notes": "You can find them anywhere in the Cavern of the Stolen Fayth, though they are rare. Unfortunately, there are no secret spaces you can go to that make it easier to find them—just keep searching!",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Valaha-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Stolen-Fayth-Cavern/Valaha.html",
+    "image_local_path": "images/screenshots/valaha.webp",
+    "thumbnail_local_path": "images/thumbnails/valaha.webp"
+  },
+  {
+    "name": "Epaaj",
+    "area": "Stolen Fayth Cavern",
+    "category": "Area Fiend",
+    "hp": "8,700",
+    "steal": [
+      "Hi-Potion (common)",
+      "Hi-Potion(x2) (rare)"
+    ],
+    "drops": [
+      "Ability Sphere"
+    ],
+    "sensor_text": "Poison",
+    "scan_text": "\"Watch out for poison.\"",
+    "location_notes": "You can find them anywhere inside the Cavern of the Stolen Fayth.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Epaaj-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Stolen-Fayth-Cavern/Epaaj.html",
+    "image_local_path": "images/screenshots/epaaj.webp",
+    "thumbnail_local_path": "images/thumbnails/epaaj.webp"
+  },
+  {
+    "name": "Ghost",
+    "area": "Stolen Fayth Cavern",
+    "category": "Area Fiend",
+    "hp": "9,999",
+    "steal": [
+      "Phoenix Down (common)",
+      "Farplane Shadow (rare)"
+    ],
+    "drops": [
+      "Mana Sphere"
+    ],
+    "sensor_text": "Doom",
+    "scan_text": "\"Casts Doom at the beginning of the battle.\"",
+    "location_notes": "You can find them anywhere inside the Cavern of the Stolen Fayth.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Ghost-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Stolen-Fayth-Cavern/Ghost.html",
+    "image_local_path": "images/screenshots/ghost.webp",
+    "thumbnail_local_path": "images/thumbnails/ghost.webp"
+  },
+  {
+    "name": "Tonberry",
+    "area": "Stolen Fayth Cavern",
+    "category": "Area Fiend",
+    "hp": "13,500",
+    "steal": [
+      "Hi-Potion (common)",
+      "Farplane Shadow (rare)"
+    ],
+    "drops": [
+      "Power Sphere (common)",
+      "Lv. 2 Key Sphere (rare)"
+    ],
+    "sensor_text": "Damage = (Total Number of Enemies Defeated by Target) * 10",
+    "scan_text": "\"Advances closer four times. Defeat it before then or elseâ¦\"",
+    "location_notes": "You can find them anywhere inside the Cavern of the Stolen Fayth. That said, they are very rare. Many players report successfully encountering more Tonberries in the green rooms of the cave.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Tonberry-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Stolen-Fayth-Cavern/Tonberry.html",
+    "image_local_path": "images/screenshots/tonberry.webp",
+    "thumbnail_local_path": "images/thumbnails/tonberry.webp"
+  },
+  {
+    "name": "Zaurus",
+    "area": "Omega Ruins",
+    "category": "Area Fiend",
+    "hp": "7,850",
+    "steal": [
+      "Petrify Grenade(x2) (common)",
+      "Petrify Grenade(x3) (rare)"
+    ],
+    "drops": [
+      "Speed Sphere(x2)"
+    ],
+    "sensor_text": "\"Immune to sensors.\"",
+    "scan_text": "\"Immune to scans.\"",
+    "location_notes": "You can find them anywhere in the Omega Ruins. They tend to be more abundant near and around the Save Sphere at the entrance.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Zaurus-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Omega-Ruins/Zaurus.html",
+    "image_local_path": "images/screenshots/zaurus.webp",
+    "thumbnail_local_path": "images/thumbnails/zaurus.webp"
+  },
+  {
+    "name": "Floating Death",
+    "area": "Omega Ruins",
+    "category": "Area Fiend",
+    "hp": "6,700",
+    "steal": [
+      "Musk(x4) (common)",
+      "Musk(x5) (rare)"
+    ],
+    "drops": [
+      "Mana Sphere"
+    ],
+    "sensor_text": "\"Aerial. Resistant to magic. Watch out for confusion.\"",
+    "scan_text": "\"Aerial and hard to hit. It has high magic defense and no elemental weaknesses. Its Gaze may cause confusion. It also has Ultrasonics, which strikes all characters.\"",
+    "location_notes": "You can find them anywhere in the Omega Ruins. They tend to spawn most frequently in the area where you found theAl Bhed Primer (Vol. XXVI)on the ground and in the hallways surrounding it, and further beyond that.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Floating-Death-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Omega-Ruins/Floating-Death.html",
+    "image_local_path": "images/screenshots/floating-death.webp",
+    "thumbnail_local_path": "images/thumbnails/floating-death.webp"
+  },
+  {
+    "name": "Black Element",
+    "area": "Omega Ruins",
+    "category": "Area Fiend",
+    "hp": "7,600",
+    "steal": [
+      "Hi-Potion (common)",
+      "Shining Gem(x4) (rare)"
+    ],
+    "drops": [
+      "Mana Sphere (common)",
+      "Return Sphere (rare)"
+    ],
+    "sensor_text": "Berserk",
+    "scan_text": "\"Immune to sensors.\"",
+    "location_notes": "You can find them anywhere inside the Omega Ruins. They tend to be most abundant in the early sections of the Omega Ruins and not too far in. Reset your game if you are having trouble making them appear.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Black-Element-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Omega-Ruins/Black-Element.html",
+    "image_local_path": "images/screenshots/black-element.webp",
+    "thumbnail_local_path": "images/thumbnails/black-element.webp"
+  },
+  {
+    "name": "Halma",
+    "area": "Omega Ruins",
+    "category": "Area Fiend",
+    "hp": "13,000",
+    "steal": [
+      "Hypello Potion(x3) (common)",
+      "Shadow Gem(x2) (rare)"
+    ],
+    "drops": [
+      "Power Sphere (common)",
+      "Power Sphere(x2) (rare)"
+    ],
+    "sensor_text": "\"Immune to sensors.\"",
+    "scan_text": "\"Immune to scans.\"",
+    "location_notes": "You can find them anywhere inside the Omega Ruins. They tend to be most abundant in the areas just north of the Save Sphere when you first enter the Omega Ruins.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Halma-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Omega-Ruins/Halma.html",
+    "image_local_path": "images/screenshots/halma.webp",
+    "thumbnail_local_path": "images/thumbnails/halma.webp"
+  },
+  {
+    "name": "Puroboros",
+    "area": "Omega Ruins",
+    "category": "Area Fiend",
+    "hp": "20,000",
+    "steal": [
+      "Fire Gem(x3) (common)",
+      "Fire Gem(x4) (rare)"
+    ],
+    "drops": [
+      "Mana Sphere (common)",
+      "Lv. 1 Key Sphere (rare)"
+    ],
+    "sensor_text": "\"Immune to sensors.\"",
+    "scan_text": "\"Immune to scans.\"",
+    "location_notes": "You can find them anywhere in the Omega Ruins. They tend to be most abundant in the hallways near and around the Save Sphere.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Puroboros-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Omega-Ruins/Puroboros.html",
+    "image_local_path": "images/screenshots/puroboros.webp",
+    "thumbnail_local_path": "images/thumbnails/puroboros.webp"
+  },
+  {
+    "name": "Spirit",
+    "area": "Omega Ruins",
+    "category": "Area Fiend",
+    "hp": "10,000",
+    "steal": [
+      "Stamina Spring (common)",
+      "Stamina Spring(x2) (rare)"
+    ],
+    "drops": [
+      "Mana Sphere (common)",
+      "Friend Sphere (rare)"
+    ],
+    "sensor_text": "\"Immune to sensors.\"",
+    "scan_text": "\"Immune to scans.\"",
+    "location_notes": "You can find them anywhere in the Omega Ruins. They tend to be most abundant in the hallways near and around the Save Sphere.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Spirit-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Omega-Ruins/Spirit.html",
+    "image_local_path": "images/screenshots/spirit.webp",
+    "thumbnail_local_path": "images/thumbnails/spirit.webp"
+  },
+  {
+    "name": "Machea",
+    "area": "Omega Ruins",
+    "category": "Area Fiend",
+    "hp": "18,000",
+    "steal": [
+      "Hi-Potion(x2) (common)",
+      "Stamina Tonic (rare)"
+    ],
+    "drops": [
+      "Mana Sphere (common)",
+      "Lv. 3 Key Sphere (rare)"
+    ],
+    "sensor_text": "\"Immune to sensors.\"",
+    "scan_text": "\"Immune to scans.\"",
+    "location_notes": "You can find them anywhere inside the Omega Ruins. They tend to be most abundant in the areas just north of the Save Sphere when you first enter the Omega Ruins.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Machea-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Omega-Ruins/Machea.html",
+    "image_local_path": "images/screenshots/machea.webp",
+    "thumbnail_local_path": "images/thumbnails/machea.webp"
+  },
+  {
+    "name": "Master Coeurl",
+    "area": "Omega Ruins",
+    "category": "Area Fiend",
+    "hp": "13,000",
+    "steal": [
+      "Farplane Shadow(x2) (common)",
+      "Farplane Shadow(x4) (rare)"
+    ],
+    "drops": [
+      "Lv. 1 Key Sphere (common)",
+      "Friend Sphere (rare)"
+    ],
+    "sensor_text": "\"Casts Drain,Confuseand Blaster when low on HP.\"",
+    "scan_text": "Confuse",
+    "location_notes": "You can find them anywhere inside the Omega Ruins.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Master-Coeurl-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Omega-Ruins/Master-Coeurl.html",
+    "image_local_path": "images/screenshots/master-coeurl.webp",
+    "thumbnail_local_path": "images/thumbnails/master-coeurl.webp"
+  },
+  {
+    "name": "Master Tonberry",
+    "area": "Omega Ruins",
+    "category": "Area Fiend",
+    "hp": "48,000",
+    "steal": [
+      "Mana Spring (common)",
+      "Tetra Elemental (rare)"
+    ],
+    "drops": [
+      "Power Sphere (common)",
+      "Teleport Sphere (rare)"
+    ],
+    "sensor_text": "Damage = (Total Number of Enemies Defeated by Target) * 10",
+    "scan_text": "\"Advances closer four times. Defeat it before then or elseâ¦\"",
+    "location_notes": "You can find them anywhere inside the Omega Ruins. The easiest place to find them in the Ruins is to travel up to the second level, where you fought against Omega Weapon. They are much more common in that area.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Master-Tonberry-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Omega-Ruins/Master-Tonberry.html",
+    "image_local_path": "images/screenshots/master-tonberry.webp",
+    "thumbnail_local_path": "images/thumbnails/master-tonberry.webp"
+  },
+  {
+    "name": "Varuna",
+    "area": "Omega Ruins",
+    "category": "Area Fiend",
+    "hp": "56,000",
+    "steal": [
+      "Farplane Wind (common)",
+      "Shining Gem (rare)"
+    ],
+    "drops": [
+      "Mana Sphere (common)",
+      "Lv. 2 Key Sphere (rare)"
+    ],
+    "sensor_text": "\"Resistant to all four elements.\"",
+    "scan_text": "\"CastsHasteon himself and attacks with magic, so use Dispel on him. After his Mana Focus, he'll cast Emblem of Fate. You can reduce damage with Shell, but he can cast Dispel on you, too.\"",
+    "location_notes": "You can find them in the Omega Ruins, but they can be challenging to track down and capture. There is no specific area where they are more abundant, but they do become more abundant in the areas around where you fight Omega Weapon after it is defeated. Refer to theOmega Ruinsguide in the Side Quests section for additional information.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Varuna-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Omega-Ruins/Varuna.html",
+    "image_local_path": "images/screenshots/varuna.webp",
+    "thumbnail_local_path": "images/thumbnails/varuna.webp"
+  },
+  {
+    "name": "Mi'ihen Fang",
+    "area": "Mi'ihen Highroad",
+    "category": "Area Fiend",
+    "hp": "160",
+    "steal": [
+      "Potion (common)",
+      "Sleeping Powder (rare)"
+    ],
+    "drops": [
+      "Power Sphere"
+    ],
+    "sensor_text": "Sleep",
+    "scan_text": "Silence",
+    "location_notes": "You can find them anywhere along the Mi'ihen Highroad.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Walkthrough/FFX-HD-01744-Monster-Arena-Fiend-Miihen-Fang-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Miihen-Highroad/Miihen-Fang.html",
+    "image_local_path": "images/screenshots/mi-ihen-fang.webp",
+    "thumbnail_local_path": "images/thumbnails/mi-ihen-fang.webp"
+  },
+  {
+    "name": "Ipiria",
+    "area": "Mi'ihen Highroad",
+    "category": "Area Fiend",
+    "hp": "180",
+    "steal": [
+      "Soft (common)",
+      "Petrify Grenade (rare)"
+    ],
+    "drops": [
+      "Speed Sphere (common)",
+      "Power Sphere (rare)"
+    ],
+    "sensor_text": "\"Very nimble. Resistant to magic.\"",
+    "scan_text": "\"Very nimble and hard to hit. Magic defense is also high. Defeat it quickly to avoid damage. Takes only half damage from fire, but vulnerable to ice.\"",
+    "location_notes": "You can find them anywhere along the Mi'ihen Highroad, but they are more prevalent in the later sections of the road, particularly along the Oldroad.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Ipiria-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Miihen-Highroad/Ipiria.html",
+    "image_local_path": "images/screenshots/ipiria.webp",
+    "thumbnail_local_path": "images/thumbnails/ipiria.webp"
+  },
+  {
+    "name": "Floating Eye",
+    "area": "Mi'ihen Highroad",
+    "category": "Area Fiend",
+    "hp": "140",
+    "steal": [
+      "Echo Screen (common)",
+      "Musk (rare)"
+    ],
+    "drops": [
+      "Speed Sphere"
+    ],
+    "sensor_text": "\"Immune to sensors.\"",
+    "scan_text": "\"Immune to scans.\"",
+    "location_notes": "You can find them anywhere along the Mi'ihen Highroad but they are most common in the earlier sections of the road.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Floating-Eye-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Miihen-Highroad/Floating-Eye.html",
+    "image_local_path": "images/screenshots/floating-eye.webp",
+    "thumbnail_local_path": "images/thumbnails/floating-eye.webp"
+  },
+  {
+    "name": "White Element",
+    "area": "Mi'ihen Highroad",
+    "category": "Area Fiend",
+    "hp": "390",
+    "steal": [
+      "Antarctic Wind (common)",
+      "Antarctic Wind(x2) (rare)"
+    ],
+    "drops": [
+      "Mana Sphere"
+    ],
+    "sensor_text": "\"Ice elemental. Vulnerable to opposing element.\"",
+    "scan_text": "\"Casts Blizzard. Physical attacks hardly hurt it. Absorbs ice, so Fire is the way to go.\"",
+    "location_notes": "You can find them anywhere along the Mi'ihen Highroad but they are most abundant in the first sections of the road near Luca.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/White-Element-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Miihen-Highroad/White-Element.html",
+    "image_local_path": "images/screenshots/white-element.webp",
+    "thumbnail_local_path": "images/thumbnails/white-element.webp"
+  },
+  {
+    "name": "Raldo",
+    "area": "Mi'ihen Highroad",
+    "category": "Area Fiend",
+    "hp": "240",
+    "steal": [
+      "Potion (common)",
+      "Hypello Potion (rare)"
+    ],
+    "drops": [
+      "Power Sphere"
+    ],
+    "sensor_text": "\"Covered by a hard shell. Piercing weapons are the way to go.\"",
+    "scan_text": "\"Covered by a hard shell. Slow-moving, but has high physical and magic defense. Vulnerable to ice. Falls easily to piercing weapons. Have Auron slice it down the middle.\"",
+    "location_notes": "You can find them anywhere along the Mi'ihen Highroad.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Raldo-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Miihen-Highroad/Raldo.html",
+    "image_local_path": "images/screenshots/raldo.webp",
+    "thumbnail_local_path": "images/thumbnails/raldo.webp"
+  },
+  {
+    "name": "Vouivre",
+    "area": "Mi'ihen Highroad",
+    "category": "Area Fiend",
+    "hp": "255",
+    "steal": [
+      "Potion (common)",
+      "Silver Hourglass (rare)"
+    ],
+    "drops": [
+      "Power Sphere"
+    ],
+    "sensor_text": "\"Covered by a hard shell. Piercing weapons are the way to go.\"",
+    "scan_text": "\"Covered with hard scales. Physical and magic defense are high, but it's weak against fire. Its attack may cause slow. Watch out for its ice-based Breath, which hits all.\"",
+    "location_notes": "You can find them anywhere along the Mi'ihen Highroad but they are most bountiful down along the Oldroad pathway.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Vouivre-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Miihen-Highroad/Vouivre.html",
+    "image_local_path": "images/screenshots/vouivre.webp",
+    "thumbnail_local_path": "images/thumbnails/vouivre.webp"
+  },
+  {
+    "name": "Bomb",
+    "area": "Mi'ihen Highroad",
+    "category": "Area Fiend",
+    "hp": "850",
+    "steal": [
+      "Bomb Fragment(x2) (common)",
+      "Bomb Fragment(x3) (rare)"
+    ],
+    "drops": [
+      "Power Sphere"
+    ],
+    "sensor_text": "\"Retaliates with Self-Destruct when attacked three times.\"",
+    "scan_text": "\"Retaliates with Self-Destruct against whoever attacks it a third time. UseNulBlazeif you can't defeat it before then. Vulnerable to ice, so use Blizzard. Kimahri can learn Self-Destruct.\"",
+    "location_notes": "You can find them anywhere along the Mi'ihen Highroad.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Bomb-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Miihen-Highroad/Bomb.html",
+    "image_local_path": "images/screenshots/bomb.webp",
+    "thumbnail_local_path": "images/thumbnails/bomb.webp"
+  },
+  {
+    "name": "Dual Horn",
+    "area": "Mi'ihen Highroad",
+    "category": "Area Fiend",
+    "hp": "1,875",
+    "steal": [
+      "Potion (common)",
+      "Hi-Potion (rare)"
+    ],
+    "drops": [
+      "Ability Sphere"
+    ],
+    "sensor_text": "\"Inflict darkness to evade its attacks.\"",
+    "scan_text": "\"Its Gore is powerful, but inflict darkness or use Sleep attack to avoid it easily. Kimahri can learn Fire Breath.\"",
+    "location_notes": "You can find them anywhere along the Mi'ihen Highroad but they are most common in the earlier sections of the road.",
+    "image_url": "https://jegged.com/img/Layout/Brand/Jegged-Logo-Transparent-Small.webp",
+    "thumbnail_url": "https://jegged.com/img/Games/Final-Fantasy-X/Monster-Arena/Dual-Horn-540w.webp",
+    "source_url": "https://jegged.com/Games/Final-Fantasy-X/Monster-Arena/Miihen-Highroad/Dual-Horn.html",
+    "image_local_path": "images/screenshots/dual-horn.webp",
+    "thumbnail_local_path": "images/thumbnails/dual-horn.webp"
+  }
+]

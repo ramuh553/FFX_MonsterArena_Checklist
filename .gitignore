@@ -1,0 +1,14 @@
+# Compiled executable (distribute via GitHub Releases instead)
+*.exe
+
+# Personal save data (unique to each user)
+ffx_save.json
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# Python cache
+__pycache__/
+*.pyc
