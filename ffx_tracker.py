@@ -257,6 +257,24 @@ SPECIES_CREATIONS: dict[str, str] = {
     "Ironclad":       "Iron Giant",
 }
 
+# Captures of each member required to unlock that creation (source: Jegged.com)
+SPECIES_REQUIREMENTS: dict[str, int] = {
+    "Fenrir":         3,
+    "Ornitholestes":  3,
+    "Pteryx":         5,
+    "Hornet":         4,
+    "Vidatu":         4,
+    "One-Eye":        4,
+    "Jumbo Flan":     3,
+    "Nega Elemental": 3,
+    "Tanket":         3,
+    "Fafnir":         4,
+    "Sleep Sprout":   5,
+    "Bomb King":      5,
+    "Juggernaut":     5,
+    "Ironclad":       10,
+}
+
 AREA_CREATION_MAP: dict[str, str | None] = {
     "Besaid":              "Stratoavis",
     "Kilika":              "Malboro Menace",
@@ -374,6 +392,15 @@ def species_monsters(species: str, areas: list[dict]) -> list[str]:
 def species_unlocked(species: str, captures: dict[str, int], areas: list[dict]) -> bool:
     ms = species_monsters(species, areas)
     return bool(ms) and all(captures.get(n, 0) >= 10 for n in ms)
+
+
+def creation_progress(creation: str, captures: dict[str, int], areas: list[dict]) -> tuple[int, int, bool]:
+    """Return (members_done, total_members, unlocked) using the creation's actual requirement."""
+    sp  = SPECIES_CREATIONS.get(creation, "")
+    req = SPECIES_REQUIREMENTS.get(creation, 10)
+    ms  = species_monsters(sp, areas)
+    done = sum(1 for n in ms if captures.get(n, 0) >= req)
+    return done, len(ms), done == len(ms)
 
 
 # Underwater fiends in Mt. Gagazet caves (required for Shinryu)
@@ -624,21 +651,17 @@ class FFXTracker(tk.Tk):
 
         for creation, sp in SPECIES_CREATIONS.items():
             if name in species_monsters(sp, self.areas):
-                ms = species_monsters(sp, self.areas)
-                mc = min((self.captures.get(n, 0) for n in ms), default=0)
+                done, total, unlocked = creation_progress(creation, self.captures, self.areas)
                 dot = self._sp_unlock_dots.get(creation)
                 if dot:
-                    dot.configure(text="✓" if mc >= 10 else "·",
-                                  foreground=GREEN if mc >= 10 else GRAY)
+                    dot.configure(text="✓" if unlocked else "·",
+                                  foreground=GREEN if unlocked else GRAY)
                 lbl = self.species_status_lbl.get(creation)
                 if lbl:
                     lbl.configure(
-                        text="Done" if mc >= 10 else (f"min {mc}/10" if mc > 0 else "not started"),
-                        foreground=GREEN if mc >= 10 else (ORANGE if mc > 0 else GRAY),
+                        text="Unlocked" if unlocked else f"{done}/{total}",
+                        foreground=GREEN if unlocked else GRAY,
                     )
-                bar = self.species_min_bars.get(creation)
-                if bar:
-                    bar.configure(value=mc)
 
         save_captures(self.captures)
 
@@ -1023,9 +1046,9 @@ class FFXTracker(tk.Tk):
 
     def _populate_species(self, parent: ttk.Frame) -> None:
         for creation, sp in SPECIES_CREATIONS.items():
-            monsters = species_monsters(sp, self.areas)
-            mc       = min((self.captures.get(n, 0) for n in monsters), default=0)
-            unlocked = mc >= 10
+            monsters         = species_monsters(sp, self.areas)
+            req              = SPECIES_REQUIREMENTS.get(creation, 10)
+            done, total, unlocked = creation_progress(creation, self.captures, self.areas)
 
             # ── Clickable header — species name is the primary label ──────────
             hdr = ttk.Frame(parent, padding=(4, 8, 6, 4), cursor="hand2")
@@ -1049,9 +1072,9 @@ class FFXTracker(tk.Tk):
             ttk.Label(hdr, text=f"  →  {sp}", foreground=self.T["dim"],
                       font=F_AREA_SUB, cursor="hand2").pack(side="left")
 
-            # Status text on the right — no bar, matches Areas header style
-            st = "Done" if unlocked else (f"min {mc}/10" if mc > 0 else "not started")
-            sf = GREEN if unlocked else (ORANGE if mc > 0 else GRAY)
+            # Status text on the right — matches Areas header style
+            st = "Unlocked" if unlocked else f"{done}/{total}"
+            sf = GREEN if unlocked else GRAY
             sl = ttk.Label(hdr, text=st, foreground=sf, font=F_AREA_COUNT,
                            cursor="hand2")
             sl.pack(side="right", padx=(4, 6))
@@ -1082,7 +1105,7 @@ class FFXTracker(tk.Tk):
             bn = ttk.Label(boss_row, text=creation, font=F_SP_CREATE, cursor="hand2")
             bn.pack(side="left")
             bn.bind("<Button-1>", lambda _, n=creation: self._show_detail(n))
-            ttk.Label(boss_row, text=f"({sp} — unlocks when all captured ×10)",
+            ttk.Label(boss_row, text=f"({sp} — capture ×{req} of each to unlock)",
                       foreground=self.T["dim"], font=("Segoe UI", 8)).pack(side="left", padx=(8, 0))
             ttk.Separator(body, orient="horizontal").pack(fill="x", padx=12, pady=2)
 

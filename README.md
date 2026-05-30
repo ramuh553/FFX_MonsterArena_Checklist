@@ -1,7 +1,10 @@
-# FFX Monster Arena Tracker
+# FFX Monster Arena Tracker — Manual Edition (V1)
 
-A desktop tracker for the Monster Arena in Final Fantasy X HD Remaster (PC/Steam).
-Tracks capture counts, area creation unlocks, species creation unlocks, and original creation progress.
+A desktop tracker for the Monster Arena in Final Fantasy X.
+Log your capture counts manually using + and − buttons. Works on any platform — PC, PlayStation, Switch, or any other version of the game.
+
+> **Playing on PC (Steam) and want automatic syncing from the game?**
+> Check out the auto-sync version instead: [FFX Monster Arena Tracker — Auto-Sync Edition (V2)](https://github.com/ramuh553/Automatically-Updating-Monster-Arena-Checklist-for-FFX)
 
 ---
 
@@ -26,8 +29,9 @@ python ffx_tracker.py
 
 ### Species Tab
 - Click a **creation name** (e.g. Fenrir) to expand/collapse its member monsters
-- **−** and **+** buttons update counts here too — the same count synced with the Areas tab
-- The header turns green when the creation is unlocked (all members at their required capture count)
+- **−** and **+** buttons update counts here too — synced with the Areas tab
+- Shows **X/Y** progress toward the unlock requirement (×3, ×4, ×5, or ×10 depending on the creation)
+- Turns green **Unlocked** when all members have been captured enough times
 
 ### Creations Tab
 - **Area Conquest** — shows each Area Creation with a progress bar (monsters captured / total needed)
